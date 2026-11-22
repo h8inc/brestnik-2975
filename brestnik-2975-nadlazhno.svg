@@ -1,0 +1,518 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3238 1368" width="100%" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif"><rect width="100%" height="100%" fill="#fff"/><text x="144.0" y="76.0" font-size="14" font-weight="600" fill="#1d1d1b">Разрез Б–Б · по дължината на западния ред, поглед към алеята</text>
+<text x="144.0" y="92.0" font-size="10.5" fill="#55534e">партерни апартаменти под мезонетите · носещи стени през 6,05 м · комин във всяко поле</text>
+<rect x="132.0" y="576.0" width="3054.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="132.0" y1="576.0" x2="3186.0" y2="576.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="328.0" y="576.0" width="2662.0" height="15.2" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="240.0" y1="576.0" x2="240.0" y2="483.59999999999997" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="240.0" cy="461.76" r="50.4" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="240.0" y="638.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към пътя</text>
+<line x1="3078.0" y1="576.0" x2="3078.0" y2="483.59999999999997" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="3078.0" cy="461.76" r="50.4" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="3078.0" y="638.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към общата градина</text>
+<rect x="334.0" y="470.0" width="714.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="691.0" y="638.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент А · 163 м²</text>
+<rect x="1060.0" y="470.0" width="714.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="1417.0" y="638.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент Б · 163 м²</text>
+<rect x="1786.0" y="470.0" width="714.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="2143.0" y="638.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент В · 163 м²</text>
+<rect x="2512.0" y="470.0" width="472.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="2748.0" y="638.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент Г · 109 м²</text>
+<rect x="333.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="333.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="575.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="575.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="817.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="817.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1059.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1059.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1301.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1301.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1543.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1543.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1785.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1785.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="2027.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="2027.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="2269.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="2269.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="2511.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="2511.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="2753.0" y="352.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="2753.0" y="234.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="458.0" width="2662.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="340.0" width="2662.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="222.0" width="2662.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="316.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="470.0" width="12.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="180.0" width="5.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="558.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="565.0" y="470.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="565.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="568.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="800.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="807.0" y="470.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="807.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="810.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1042.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1049.0" y="470.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1049.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1052.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1284.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1291.0" y="470.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1291.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1294.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1526.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1533.0" y="470.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1533.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1536.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1768.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1775.0" y="470.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1775.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1778.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2010.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2017.0" y="470.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2017.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2020.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2252.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2259.0" y="470.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2259.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2262.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2494.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2501.0" y="470.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2501.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2504.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2736.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2743.0" y="470.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2743.0" y="180.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2746.4" y="150.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2978.0" y="591.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2978.0" y="470.0" width="12.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2985.0" y="180.0" width="5.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="465.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="340.8" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="449.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Род. спалня</text>
+<text x="449.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М1</text>
+<text x="449.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="449.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М1</text>
+<circle cx="497.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M497.0 398.0 L497.0 424.0 M497.0 424.0 L490.6 458.0 M497.0 424.0 L503.4 458.0 M487.4 416.0 L497.0 402.8 L506.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="401.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M401.0 162.0 L401.0 188.0 M401.0 188.0 L394.6 222.0 M401.0 188.0 L407.4 222.0 M391.4 180.0 L401.0 166.8 L410.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="671.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="791.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="691.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="691.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М2</text>
+<text x="691.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="691.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М2</text>
+<circle cx="739.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M739.0 398.0 L739.0 424.0 M739.0 424.0 L732.6 458.0 M739.0 424.0 L745.4 458.0 M729.4 416.0 L739.0 402.8 L748.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="643.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M643.0 162.0 L643.0 188.0 M643.0 188.0 L636.6 222.0 M643.0 188.0 L649.4 222.0 M633.4 180.0 L643.0 166.8 L652.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="949.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="817.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="933.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="933.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М3</text>
+<text x="933.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="933.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М3</text>
+<circle cx="981.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M981.0 398.0 L981.0 424.0 M981.0 424.0 L974.6 458.0 M981.0 424.0 L987.4 458.0 M971.4 416.0 L981.0 402.8 L990.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="885.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M885.0 162.0 L885.0 188.0 M885.0 188.0 L878.6 222.0 M885.0 188.0 L891.4 222.0 M875.4 180.0 L885.0 166.8 L894.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1155.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1275.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1175.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="1175.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М4</text>
+<text x="1175.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1175.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М4</text>
+<circle cx="1223.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M1223.0 398.0 L1223.0 424.0 M1223.0 424.0 L1216.6 458.0 M1223.0 424.0 L1229.4 458.0 M1213.4 416.0 L1223.0 402.8 L1232.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1127.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M1127.0 162.0 L1127.0 188.0 M1127.0 188.0 L1120.6 222.0 M1127.0 188.0 L1133.4 222.0 M1117.4 180.0 L1127.0 166.8 L1136.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1433.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1301.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1417.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="1417.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М5</text>
+<text x="1417.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1417.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М5</text>
+<circle cx="1465.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M1465.0 398.0 L1465.0 424.0 M1465.0 424.0 L1458.6 458.0 M1465.0 424.0 L1471.4 458.0 M1455.4 416.0 L1465.0 402.8 L1474.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1369.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M1369.0 162.0 L1369.0 188.0 M1369.0 188.0 L1362.6 222.0 M1369.0 188.0 L1375.4 222.0 M1359.4 180.0 L1369.0 166.8 L1378.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1639.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1759.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1659.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Род. спалня</text>
+<text x="1659.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М6</text>
+<text x="1659.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1659.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М6</text>
+<circle cx="1707.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M1707.0 398.0 L1707.0 424.0 M1707.0 424.0 L1700.6 458.0 M1707.0 424.0 L1713.4 458.0 M1697.4 416.0 L1707.0 402.8 L1716.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1611.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M1611.0 162.0 L1611.0 188.0 M1611.0 188.0 L1604.6 222.0 M1611.0 188.0 L1617.4 222.0 M1601.4 180.0 L1611.0 166.8 L1620.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1917.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1785.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1901.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Род. спалня</text>
+<text x="1901.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М7</text>
+<text x="1901.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1901.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М7</text>
+<circle cx="1949.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M1949.0 398.0 L1949.0 424.0 M1949.0 424.0 L1942.6 458.0 M1949.0 424.0 L1955.4 458.0 M1939.4 416.0 L1949.0 402.8 L1958.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1853.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M1853.0 162.0 L1853.0 188.0 M1853.0 188.0 L1846.6 222.0 M1853.0 188.0 L1859.4 222.0 M1843.4 180.0 L1853.0 166.8 L1862.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="2123.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2243.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="2143.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="2143.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М8</text>
+<text x="2143.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="2143.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М8</text>
+<circle cx="2191.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M2191.0 398.0 L2191.0 424.0 M2191.0 424.0 L2184.6 458.0 M2191.0 424.0 L2197.4 458.0 M2181.4 416.0 L2191.0 402.8 L2200.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2095.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M2095.0 162.0 L2095.0 188.0 M2095.0 188.0 L2088.6 222.0 M2095.0 188.0 L2101.4 222.0 M2085.4 180.0 L2095.0 166.8 L2104.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="2401.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2269.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="2385.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="2385.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М9</text>
+<text x="2385.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="2385.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М9</text>
+<circle cx="2433.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M2433.0 398.0 L2433.0 424.0 M2433.0 424.0 L2426.6 458.0 M2433.0 424.0 L2439.4 458.0 M2423.4 416.0 L2433.0 402.8 L2442.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2337.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M2337.0 162.0 L2337.0 188.0 M2337.0 188.0 L2330.6 222.0 M2337.0 188.0 L2343.4 222.0 M2327.4 180.0 L2337.0 166.8 L2346.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="2607.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2727.0" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="2627.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="2627.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М10</text>
+<text x="2627.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="2627.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М10</text>
+<circle cx="2675.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M2675.0 398.0 L2675.0 424.0 M2675.0 424.0 L2668.6 458.0 M2675.0 424.0 L2681.4 458.0 M2665.4 416.0 L2675.0 402.8 L2684.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2579.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M2579.0 162.0 L2579.0 188.0 M2579.0 188.0 L2572.6 222.0 M2579.0 188.0 L2585.4 222.0 M2569.4 180.0 L2579.0 166.8 L2588.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="2849.0" y="234.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2961.2" y="160.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="2869.0" y="488.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="2869.0" y="368.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М11</text>
+<text x="2869.0" y="250.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="2869.0" y="162.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М11</text>
+<circle cx="2917.0" cy="393.2" r="4.4" fill="#55534e"/>
+<path d="M2917.0 398.0 L2917.0 424.0 M2917.0 424.0 L2910.6 458.0 M2917.0 424.0 L2923.4 458.0 M2907.4 416.0 L2917.0 402.8 L2926.6 416.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2821.0" cy="157.2" r="4.4" fill="#55534e"/>
+<path d="M2821.0 162.0 L2821.0 188.0 M2821.0 188.0 L2814.6 222.0 M2821.0 188.0 L2827.4 222.0 M2811.4 180.0 L2821.0 166.8 L2830.6 180.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M66.0 567.0 L78.0 567.0 L72.0 576.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="576.0" x2="134.0" y2="576.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="563.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M66.0 449.0 L78.0 449.0 L72.0 458.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="458.0" x2="134.0" y2="458.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="445.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M66.0 331.0 L78.0 331.0 L72.0 340.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="340.0" x2="134.0" y2="340.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="327.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M66.0 213.0 L78.0 213.0 L72.0 222.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="222.0" x2="134.0" y2="222.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="209.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+8,85</text>
+<path d="M66.0 171.0 L78.0 171.0 L72.0 180.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="180.0" x2="134.0" y2="180.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="167.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90 парапет</text>
+<line x1="296.0" y1="176.0" x2="3022.0" y2="176.0" stroke="#b3261e" stroke-width="1" stroke-dasharray="7 4"/>
+<line x1="328.0" y1="606.0" x2="570.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="324.0" y1="610.0" x2="332.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="328.0" y1="599.0" x2="328.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="566.0" y1="610.0" x2="574.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="570.0" y1="599.0" x2="570.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="449.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="570.0" y1="606.0" x2="812.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="566.0" y1="610.0" x2="574.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="570.0" y1="599.0" x2="570.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="808.0" y1="610.0" x2="816.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="812.0" y1="599.0" x2="812.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="691.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="812.0" y1="606.0" x2="1054.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="808.0" y1="610.0" x2="816.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="812.0" y1="599.0" x2="812.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1050.0" y1="610.0" x2="1058.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1054.0" y1="599.0" x2="1054.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="933.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1054.0" y1="606.0" x2="1296.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1050.0" y1="610.0" x2="1058.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1054.0" y1="599.0" x2="1054.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1292.0" y1="610.0" x2="1300.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1296.0" y1="599.0" x2="1296.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1175.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1296.0" y1="606.0" x2="1538.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1292.0" y1="610.0" x2="1300.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1296.0" y1="599.0" x2="1296.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1534.0" y1="610.0" x2="1542.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1538.0" y1="599.0" x2="1538.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1417.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1538.0" y1="606.0" x2="1780.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1534.0" y1="610.0" x2="1542.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1538.0" y1="599.0" x2="1538.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1776.0" y1="610.0" x2="1784.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1780.0" y1="599.0" x2="1780.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1659.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1780.0" y1="606.0" x2="2022.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1776.0" y1="610.0" x2="1784.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1780.0" y1="599.0" x2="1780.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2018.0" y1="610.0" x2="2026.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2022.0" y1="599.0" x2="2022.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1901.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="2022.0" y1="606.0" x2="2264.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2018.0" y1="610.0" x2="2026.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2022.0" y1="599.0" x2="2022.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2260.0" y1="610.0" x2="2268.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2264.0" y1="599.0" x2="2264.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2143.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="2264.0" y1="606.0" x2="2506.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2260.0" y1="610.0" x2="2268.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2264.0" y1="599.0" x2="2264.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2502.0" y1="610.0" x2="2510.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2506.0" y1="599.0" x2="2506.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2385.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="2506.0" y1="606.0" x2="2748.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2502.0" y1="610.0" x2="2510.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2506.0" y1="599.0" x2="2506.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2744.0" y1="610.0" x2="2752.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2748.0" y1="599.0" x2="2748.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2627.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="2748.0" y1="606.0" x2="2990.0" y2="606.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2744.0" y1="610.0" x2="2752.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2748.0" y1="599.0" x2="2748.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2986.0" y1="610.0" x2="2994.0" y2="602.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2990.0" y1="599.0" x2="2990.0" y2="613.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2869.0" y="598.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<text x="144.0" y="764.0" font-size="14" font-weight="600" fill="#1d1d1b">Разрез В–В · по дължината на източния ред, поглед към алеята</text>
+<text x="144.0" y="780.0" font-size="10.5" fill="#55534e">партерни апартаменти под мезонетите · носещи стени през 6,05 м · комин във всяко поле</text>
+<rect x="132.0" y="1264.0" width="2570.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="132.0" y1="1264.0" x2="2702.0" y2="1264.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="328.0" y="1264.0" width="2178.0" height="15.2" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="240.0" y1="1264.0" x2="240.0" y2="1171.6" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="240.0" cy="1149.76" r="50.4" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="240.0" y="1326.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към общата градина</text>
+<line x1="2594.0" y1="1264.0" x2="2594.0" y2="1171.6" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="2594.0" cy="1149.76" r="50.4" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="2594.0" y="1326.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към пътя</text>
+<rect x="334.0" y="1158.0" width="714.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="691.0" y="1326.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент Ж · 163 м²</text>
+<rect x="1060.0" y="1158.0" width="714.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="1417.0" y="1326.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент Е · 163 м²</text>
+<rect x="1786.0" y="1158.0" width="714.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<text x="2143.0" y="1326.0" font-size="10.5" font-weight="700" fill="#1d6b4a" text-anchor="middle" dominant-baseline="central">Апартамент Д · 163 м²</text>
+<rect x="333.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="333.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="575.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="575.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="817.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="817.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1059.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1059.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1301.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1301.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1543.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1543.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="1785.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1785.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="2027.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="2027.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#f4f3fd" stroke="none" stroke-width="0.8"/>
+<rect x="2269.0" y="1040.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="2269.0" y="922.0" width="232.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="1146.0" width="2178.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="1028.0" width="2178.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="910.0" width="2178.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="316.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="1158.0" width="12.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="328.0" y="868.0" width="5.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="558.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="565.0" y="1158.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="565.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="568.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="800.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="807.0" y="1158.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="807.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="810.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1042.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1049.0" y="1158.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1049.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1052.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1284.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1291.0" y="1158.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1291.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1294.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1526.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1533.0" y="1158.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1533.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1536.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1768.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1775.0" y="1158.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1775.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1778.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2010.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2017.0" y="1158.0" width="10.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2017.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2020.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2252.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2259.0" y="1158.0" width="10.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2259.0" y="868.0" width="10.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2262.4" y="838.0" width="3.2" height="30.0" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="2494.0" y="1279.2" width="24.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2494.0" y="1158.0" width="12.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2501.0" y="868.0" width="5.0" height="278.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="465.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="340.8" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="449.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Род. спалня</text>
+<text x="449.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М20</text>
+<text x="449.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="449.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М20</text>
+<circle cx="497.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M497.0 1086.0 L497.0 1112.0 M497.0 1112.0 L490.6 1146.0 M497.0 1112.0 L503.4 1146.0 M487.4 1104.0 L497.0 1090.8 L506.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="401.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M401.0 850.0 L401.0 876.0 M401.0 876.0 L394.6 910.0 M401.0 876.0 L407.4 910.0 M391.4 868.0 L401.0 854.8 L410.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="671.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="791.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="691.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="691.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М19</text>
+<text x="691.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="691.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М19</text>
+<circle cx="739.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M739.0 1086.0 L739.0 1112.0 M739.0 1112.0 L732.6 1146.0 M739.0 1112.0 L745.4 1146.0 M729.4 1104.0 L739.0 1090.8 L748.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="643.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M643.0 850.0 L643.0 876.0 M643.0 876.0 L636.6 910.0 M643.0 876.0 L649.4 910.0 M633.4 868.0 L643.0 854.8 L652.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="949.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="817.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="933.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="933.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М18</text>
+<text x="933.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="933.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М18</text>
+<circle cx="981.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M981.0 1086.0 L981.0 1112.0 M981.0 1112.0 L974.6 1146.0 M981.0 1112.0 L987.4 1146.0 M971.4 1104.0 L981.0 1090.8 L990.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="885.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M885.0 850.0 L885.0 876.0 M885.0 876.0 L878.6 910.0 M885.0 876.0 L891.4 910.0 M875.4 868.0 L885.0 854.8 L894.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1155.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1275.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1175.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="1175.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М17</text>
+<text x="1175.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1175.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М17</text>
+<circle cx="1223.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M1223.0 1086.0 L1223.0 1112.0 M1223.0 1112.0 L1216.6 1146.0 M1223.0 1112.0 L1229.4 1146.0 M1213.4 1104.0 L1223.0 1090.8 L1232.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1127.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M1127.0 850.0 L1127.0 876.0 M1127.0 876.0 L1120.6 910.0 M1127.0 876.0 L1133.4 910.0 M1117.4 868.0 L1127.0 854.8 L1136.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1433.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1301.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1417.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="1417.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М16</text>
+<text x="1417.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1417.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М16</text>
+<circle cx="1465.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M1465.0 1086.0 L1465.0 1112.0 M1465.0 1112.0 L1458.6 1146.0 M1465.0 1112.0 L1471.4 1146.0 M1455.4 1104.0 L1465.0 1090.8 L1474.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1369.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M1369.0 850.0 L1369.0 876.0 M1369.0 876.0 L1362.6 910.0 M1369.0 876.0 L1375.4 910.0 M1359.4 868.0 L1369.0 854.8 L1378.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1639.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1759.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1659.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Род. спалня</text>
+<text x="1659.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М15</text>
+<text x="1659.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1659.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М15</text>
+<circle cx="1707.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M1707.0 1086.0 L1707.0 1112.0 M1707.0 1112.0 L1700.6 1146.0 M1707.0 1112.0 L1713.4 1146.0 M1697.4 1104.0 L1707.0 1090.8 L1716.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1611.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M1611.0 850.0 L1611.0 876.0 M1611.0 876.0 L1604.6 910.0 M1611.0 876.0 L1617.4 910.0 M1601.4 868.0 L1611.0 854.8 L1620.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="1917.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1785.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1901.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Род. спалня</text>
+<text x="1901.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М14</text>
+<text x="1901.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="1901.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М14</text>
+<circle cx="1949.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M1949.0 1086.0 L1949.0 1112.0 M1949.0 1112.0 L1942.6 1146.0 M1949.0 1112.0 L1955.4 1146.0 M1939.4 1104.0 L1949.0 1090.8 L1958.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1853.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M1853.0 850.0 L1853.0 876.0 M1853.0 876.0 L1846.6 910.0 M1853.0 876.0 L1859.4 910.0 M1843.4 868.0 L1853.0 854.8 L1862.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="2123.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2243.0" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="2143.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна</text>
+<text x="2143.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М13</text>
+<text x="2143.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="2143.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М13</text>
+<circle cx="2191.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M2191.0 1086.0 L2191.0 1112.0 M2191.0 1112.0 L2184.6 1146.0 M2191.0 1112.0 L2197.4 1146.0 M2181.4 1104.0 L2191.0 1090.8 L2200.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2095.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M2095.0 850.0 L2095.0 876.0 M2095.0 876.0 L2088.6 910.0 M2095.0 876.0 L2101.4 910.0 M2085.4 868.0 L2095.0 854.8 L2104.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="2365.0" y="922.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2477.2" y="848.0" width="16.0" height="298.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="1"/>
+<text x="2385.0" y="1176.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Кухня</text>
+<text x="2385.0" y="1056.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна М12</text>
+<text x="2385.0" y="938.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спални</text>
+<text x="2385.0" y="850.0" font-size="9.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса М12</text>
+<circle cx="2433.0" cy="1081.2" r="4.4" fill="#55534e"/>
+<path d="M2433.0 1086.0 L2433.0 1112.0 M2433.0 1112.0 L2426.6 1146.0 M2433.0 1112.0 L2439.4 1146.0 M2423.4 1104.0 L2433.0 1090.8 L2442.6 1104.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2337.0" cy="845.2" r="4.4" fill="#55534e"/>
+<path d="M2337.0 850.0 L2337.0 876.0 M2337.0 876.0 L2330.6 910.0 M2337.0 876.0 L2343.4 910.0 M2327.4 868.0 L2337.0 854.8 L2346.6 868.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M66.0 1255.0 L78.0 1255.0 L72.0 1264.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="1264.0" x2="134.0" y2="1264.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="1251.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M66.0 1137.0 L78.0 1137.0 L72.0 1146.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="1146.0" x2="134.0" y2="1146.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="1133.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M66.0 1019.0 L78.0 1019.0 L72.0 1028.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="1028.0" x2="134.0" y2="1028.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="1015.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M66.0 901.0 L78.0 901.0 L72.0 910.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="910.0" x2="134.0" y2="910.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="897.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+8,85</text>
+<path d="M66.0 859.0 L78.0 859.0 L72.0 868.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="62.0" y1="868.0" x2="134.0" y2="868.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="82.0" y="855.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90 парапет</text>
+<line x1="296.0" y1="864.0" x2="2538.0" y2="864.0" stroke="#b3261e" stroke-width="1" stroke-dasharray="7 4"/>
+<line x1="328.0" y1="1294.0" x2="570.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="324.0" y1="1298.0" x2="332.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="328.0" y1="1287.0" x2="328.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="566.0" y1="1298.0" x2="574.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="570.0" y1="1287.0" x2="570.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="449.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="570.0" y1="1294.0" x2="812.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="566.0" y1="1298.0" x2="574.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="570.0" y1="1287.0" x2="570.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="808.0" y1="1298.0" x2="816.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="812.0" y1="1287.0" x2="812.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="691.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="812.0" y1="1294.0" x2="1054.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="808.0" y1="1298.0" x2="816.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="812.0" y1="1287.0" x2="812.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1050.0" y1="1298.0" x2="1058.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1054.0" y1="1287.0" x2="1054.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="933.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1054.0" y1="1294.0" x2="1296.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1050.0" y1="1298.0" x2="1058.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1054.0" y1="1287.0" x2="1054.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1292.0" y1="1298.0" x2="1300.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1296.0" y1="1287.0" x2="1296.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1175.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1296.0" y1="1294.0" x2="1538.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1292.0" y1="1298.0" x2="1300.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1296.0" y1="1287.0" x2="1296.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1534.0" y1="1298.0" x2="1542.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1538.0" y1="1287.0" x2="1538.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1417.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1538.0" y1="1294.0" x2="1780.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1534.0" y1="1298.0" x2="1542.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1538.0" y1="1287.0" x2="1538.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1776.0" y1="1298.0" x2="1784.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1780.0" y1="1287.0" x2="1780.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1659.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="1780.0" y1="1294.0" x2="2022.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1776.0" y1="1298.0" x2="1784.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1780.0" y1="1287.0" x2="1780.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2018.0" y1="1298.0" x2="2026.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2022.0" y1="1287.0" x2="2022.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1901.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="2022.0" y1="1294.0" x2="2264.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2018.0" y1="1298.0" x2="2026.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2022.0" y1="1287.0" x2="2022.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2260.0" y1="1298.0" x2="2268.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2264.0" y1="1287.0" x2="2264.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2143.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text>
+<line x1="2264.0" y1="1294.0" x2="2506.0" y2="1294.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2260.0" y1="1298.0" x2="2268.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2264.0" y1="1287.0" x2="2264.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2502.0" y1="1298.0" x2="2510.0" y2="1290.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2506.0" y1="1287.0" x2="2506.0" y2="1301.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2385.0" y="1286.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">6,05</text></svg>

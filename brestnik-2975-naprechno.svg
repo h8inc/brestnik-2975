@@ -1,0 +1,404 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2692 1416" width="100%" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif"><rect width="100%" height="100%" fill="#fff"/><text x="48.0" y="40.0" font-size="14" font-weight="600" fill="#1d1d1b">Разрез А–А · напречно през имота, поглед към пътя</text>
+<text x="48.0" y="56.0" font-size="10.5" fill="#55534e">ляво: западният ред, срязан през стълбата на мезонета · дясно: източният ред, срязан през стаите</text>
+<rect x="176.0" y="584.0" width="2308.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="176.0" y1="584.0" x2="2484.0" y2="584.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="1164.0" y="584.0" width="244.0" height="5.6" rx="0" fill="#bdb9b0" stroke="none" stroke-width="0.8"/>
+<rect x="964.0" y="584.0" width="200.0" height="4.0" rx="0" fill="#cfe0b8" stroke="none" stroke-width="0.8"/>
+<rect x="1408.0" y="584.0" width="200.0" height="4.0" rx="0" fill="#cfe0b8" stroke="none" stroke-width="0.8"/>
+<line x1="304.0" y1="632.0" x2="304.0" y2="152.0" stroke="#b3261e" stroke-width="0.9" stroke-dasharray="10 3 2 3"/>
+<text x="304.0" y="142.0" font-size="9" font-weight="400" fill="#b3261e" text-anchor="middle" dominant-baseline="central">граница · ПИ 29.161</text>
+<line x1="2356.0" y1="632.0" x2="2356.0" y2="152.0" stroke="#b3261e" stroke-width="0.9" stroke-dasharray="10 3 2 3"/>
+<text x="2356.0" y="142.0" font-size="9" font-weight="400" fill="#b3261e" text-anchor="middle" dominant-baseline="central">граница · ПИ 29.74</text>
+<path d="M978.0 574.0 L978.0 554.0 L1008.0 550.0 L1030.0 528.0 L1096.0 528.0 L1120.0 550.0 L1150.0 554.0 L1150.0 574.0 Z" fill="#f1efe8" stroke="#55534e" stroke-width="1"/>
+<circle cx="1012.0" cy="573.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<circle cx="1116.0" cy="573.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<path d="M1422.0 574.0 L1422.0 554.0 L1452.0 550.0 L1474.0 528.0 L1540.0 528.0 L1564.0 550.0 L1594.0 554.0 L1594.0 574.0 Z" fill="#f1efe8" stroke="#55534e" stroke-width="1"/>
+<circle cx="1456.0" cy="573.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<circle cx="1560.0" cy="573.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<line x1="360.0" y1="584.0" x2="360.0" y2="491.59999999999997" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="360.0" cy="469.76" r="50.4" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<line x1="2272.0" y1="584.0" x2="2272.0" y2="482.8" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="2272.0" cy="458.88" r="55.199999999999996" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<circle cx="1284.0" cy="519.2" r="4.4" fill="#55534e"/>
+<path d="M1284.0 524.0 L1284.0 550.0 M1284.0 550.0 L1277.6 584.0 M1284.0 550.0 L1290.4 584.0 M1274.4 542.0 L1284.0 528.8 L1293.6 542.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M74.0 575.0 L86.0 575.0 L80.0 584.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="584.0" x2="142.0" y2="584.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="571.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M74.0 457.0 L86.0 457.0 L80.0 466.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="466.0" x2="142.0" y2="466.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="453.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M74.0 339.0 L86.0 339.0 L80.0 348.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="348.0" x2="142.0" y2="348.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="335.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M74.0 221.0 L86.0 221.0 L80.0 230.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="230.0" x2="142.0" y2="230.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="217.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+8,85</text>
+<path d="M74.0 179.0 L86.0 179.0 L80.0 188.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="188.0" x2="142.0" y2="188.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="175.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90 парапет</text>
+<line x1="272.0" y1="184.0" x2="2388.0" y2="184.0" stroke="#b3261e" stroke-width="1" stroke-dasharray="7 4"/>
+<text x="2404.0" y="184.0" font-size="9.5" font-weight="400" fill="#b3261e" text-anchor="start" dominant-baseline="central">макс. 10,00 м</text>
+<line x1="304.0" y1="614.0" x2="424.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="300.0" y1="618.0" x2="308.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="304.0" y1="607.0" x2="304.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="420.0" y1="618.0" x2="428.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="424.0" y1="607.0" x2="424.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="364.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">3,00</text>
+<line x1="424.0" y1="614.0" x2="552.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="420.0" y1="618.0" x2="428.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="424.0" y1="607.0" x2="424.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="548.0" y1="618.0" x2="556.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="552.0" y1="607.0" x2="552.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="488.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">еркер 3,20</text>
+<line x1="552.0" y1="614.0" x2="964.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="548.0" y1="618.0" x2="556.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="552.0" y1="607.0" x2="552.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="960.0" y1="618.0" x2="968.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="964.0" y1="607.0" x2="964.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="758.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">партер 10,30</text>
+<line x1="964.0" y1="614.0" x2="1164.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="960.0" y1="618.0" x2="968.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="964.0" y1="607.0" x2="964.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1160.0" y1="618.0" x2="1168.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1164.0" y1="607.0" x2="1164.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1064.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">паркиране 5,00</text>
+<line x1="1164.0" y1="614.0" x2="1408.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1160.0" y1="618.0" x2="1168.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1164.0" y1="607.0" x2="1164.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1404.0" y1="618.0" x2="1412.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1408.0" y1="607.0" x2="1408.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1286.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">алея 6,10</text>
+<line x1="1408.0" y1="614.0" x2="1608.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1404.0" y1="618.0" x2="1412.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1408.0" y1="607.0" x2="1408.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1604.0" y1="618.0" x2="1612.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1608.0" y1="607.0" x2="1608.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1508.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">паркиране 5,00</text>
+<line x1="1608.0" y1="614.0" x2="2020.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1604.0" y1="618.0" x2="1612.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1608.0" y1="607.0" x2="1608.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2016.0" y1="618.0" x2="2024.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2020.0" y1="607.0" x2="2020.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1814.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">партер 10,30</text>
+<line x1="2020.0" y1="614.0" x2="2148.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2016.0" y1="618.0" x2="2024.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2020.0" y1="607.0" x2="2020.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2144.0" y1="618.0" x2="2152.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2148.0" y1="607.0" x2="2148.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2084.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">еркер 3,20</text>
+<line x1="2148.0" y1="614.0" x2="2356.0" y2="614.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2144.0" y1="618.0" x2="2152.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2148.0" y1="607.0" x2="2148.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2352.0" y1="618.0" x2="2360.0" y2="610.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2356.0" y1="607.0" x2="2356.0" y2="621.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2252.0" y="606.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">5,20</text>
+<line x1="424.0" y1="644.0" x2="964.0" y2="644.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="420.0" y1="648.0" x2="428.0" y2="640.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="424.0" y1="637.0" x2="424.0" y2="651.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="960.0" y1="648.0" x2="968.0" y2="640.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="964.0" y1="637.0" x2="964.0" y2="651.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="694.0" y="636.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">етажи 2 и 3: 13,50</text>
+<line x1="1608.0" y1="644.0" x2="2148.0" y2="644.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1604.0" y1="648.0" x2="1612.0" y2="640.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1608.0" y1="637.0" x2="1608.0" y2="651.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2144.0" y1="648.0" x2="2152.0" y2="640.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2148.0" y1="637.0" x2="2148.0" y2="651.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1878.0" y="636.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">етажи 2 и 3: 13,50</text>
+<line x1="304.0" y1="674.0" x2="2356.0" y2="674.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="300.0" y1="678.0" x2="308.0" y2="670.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="304.0" y1="667.0" x2="304.0" y2="681.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2352.0" y1="678.0" x2="2360.0" y2="670.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2356.0" y1="667.0" x2="2356.0" y2="681.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1330.0" y="666.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">имотът напречно: 51,30</text>
+<rect x="552.0" y="584.0" width="412.0" height="15.2" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="944.0" y="599.2" width="26.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="546.0" y="599.2" width="26.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="708.0" y="478.0" width="244.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="564.0" y="478.0" width="140.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<rect x="436.0" y="360.0" width="516.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="436.0" y="242.0" width="516.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="904.0" y="466.0" width="60.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="424.0" y="466.0" width="289.6" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="904.0" y="348.0" width="60.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="424.0" y="348.0" width="289.6" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="904.0" y="230.0" width="60.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="424.0" y="230.0" width="289.6" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="952.0" y="496.0" width="12.0" height="88.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="958.0" y1="584.0" x2="958.0" y2="496.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="952.0" y="426.0" width="12.0" height="70.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="952.0" y="378.0" width="12.0" height="48.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="958.0" y1="426.0" x2="958.0" y2="378.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="952.0" y="308.0" width="12.0" height="70.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="952.0" y="260.0" width="12.0" height="48.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="958.0" y1="308.0" x2="958.0" y2="260.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="952.0" y="188.0" width="12.0" height="72.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="848.0" y="230.0" width="116.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="848.0" y1="225.2" x2="713.6" y2="225.2" stroke="#b3261e" stroke-width="2.4" stroke-dasharray="6 3"/>
+<text x="780.0" y="208.0" font-size="9.5" font-weight="400" fill="#b3261e" text-anchor="middle" dominant-baseline="central">плъзгащ люк</text>
+<rect x="704.0" y="478.0" width="8.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<polygon points="904.0,584.0 904.0,577.4 892.8,577.4 892.8,570.9 881.6,570.9 881.6,564.3 870.4,564.3 870.4,557.8 859.2,557.8 859.2,551.2 848.0,551.2 848.0,544.7 836.8,544.7 836.8,538.1 825.6,538.1 825.6,531.6 814.4,531.6 814.4,525.0 803.2,525.0 803.2,518.4 792.0,518.4 792.0,511.9 780.8,511.9 780.8,505.3 769.6,505.3 769.6,498.8 758.4,498.8 758.4,492.2 747.2,492.2 747.2,485.7 736.0,485.7 736.0,479.1 724.8,479.1 724.8,472.6 713.6,472.6 713.6,466.0 713.6,478.0 890.0,584.0" fill="#cfccc4" stroke="#1d1d1b" stroke-width="1.1"/>
+<line x1="904.0" y1="546.0" x2="713.6" y2="428.0" stroke="#55534e" stroke-width="0.8"/>
+<polygon points="904.0,466.0 904.0,459.4 892.8,459.4 892.8,452.9 881.6,452.9 881.6,446.3 870.4,446.3 870.4,439.8 859.2,439.8 859.2,433.2 848.0,433.2 848.0,426.7 836.8,426.7 836.8,420.1 825.6,420.1 825.6,413.6 814.4,413.6 814.4,407.0 803.2,407.0 803.2,400.4 792.0,400.4 792.0,393.9 780.8,393.9 780.8,387.3 769.6,387.3 769.6,380.8 758.4,380.8 758.4,374.2 747.2,374.2 747.2,367.7 736.0,367.7 736.0,361.1 724.8,361.1 724.8,354.6 713.6,354.6 713.6,348.0 713.6,360.0 890.0,466.0" fill="#cfccc4" stroke="#1d1d1b" stroke-width="1.1"/>
+<line x1="904.0" y1="428.0" x2="713.6" y2="310.0" stroke="#55534e" stroke-width="0.8"/>
+<polygon points="904.0,348.0 904.0,341.4 892.8,341.4 892.8,334.9 881.6,334.9 881.6,328.3 870.4,328.3 870.4,321.8 859.2,321.8 859.2,315.2 848.0,315.2 848.0,308.7 836.8,308.7 836.8,302.1 825.6,302.1 825.6,295.6 814.4,295.6 814.4,289.0 803.2,289.0 803.2,282.4 792.0,282.4 792.0,275.9 780.8,275.9 780.8,269.3 769.6,269.3 769.6,262.8 758.4,262.8 758.4,256.2 747.2,256.2 747.2,249.7 736.0,249.7 736.0,243.1 724.8,243.1 724.8,236.6 713.6,236.6 713.6,230.0 713.6,242.0 890.0,348.0" fill="#cfccc4" stroke="#1d1d1b" stroke-width="1.1"/>
+<line x1="904.0" y1="310.0" x2="713.6" y2="192.0" stroke="#55534e" stroke-width="0.8"/>
+<rect x="552.0" y="488.0" width="12.0" height="96.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="558.0" y1="584.0" x2="558.0" y2="488.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="552.0" y="478.0" width="12.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="424.0" y="370.0" width="12.0" height="96.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="430.0" y1="466.0" x2="430.0" y2="370.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="424.0" y="312.0" width="12.0" height="58.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="424.0" y="252.0" width="12.0" height="60.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="430.0" y1="312.0" x2="430.0" y2="252.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="424.0" y="188.0" width="12.0" height="64.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="430.0" y1="188.0" x2="430.0" y2="188.0" stroke="#55534e" stroke-width="1"/>
+<line x1="700.0" y1="188.0" x2="430.0" y2="188.0" stroke="#55534e" stroke-width="0.8" stroke-dasharray="2 4"/>
+<circle cx="580.0" cy="401.2" r="4.4" fill="#55534e"/>
+<path d="M580.0 406.0 L580.0 432.0 M580.0 432.0 L573.6 466.0 M580.0 432.0 L586.4 466.0 M570.4 424.0 L580.0 410.8 L589.6 424.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="540.0" cy="165.2" r="4.4" fill="#55534e"/>
+<path d="M540.0 170.0 L540.0 196.0 M540.0 196.0 L533.6 230.0 M540.0 196.0 L546.4 230.0 M530.4 188.0 L540.0 174.8 L549.6 188.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="628.0" cy="519.2" r="4.4" fill="#55534e"/>
+<path d="M628.0 524.0 L628.0 550.0 M628.0 550.0 L621.6 584.0 M628.0 550.0 L634.4 584.0 M618.4 542.0 L628.0 528.8 L637.6 542.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<text x="836.0" y="486.0" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">вход и стълба</text>
+<text x="616.0" y="496.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">апартамент</text>
+<text x="924.0" y="374.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">площадка</text>
+<text x="564.0" y="378.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">дневна с кухня</text>
+<text x="548.0" y="260.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">хол · спалня 2</text>
+<text x="548.0" y="154.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса на покрива</text>
+<text x="488.0" y="532.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">еркер на колони</text>
+<rect x="424.0" y="478.0" width="12.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="580.0" y1="478.0" x2="580.0" y2="584.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="576.0" y1="482.0" x2="584.0" y2="474.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="573.0" y1="478.0" x2="587.0" y2="478.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="576.0" y1="588.0" x2="584.0" y2="580.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="573.0" y1="584.0" x2="587.0" y2="584.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="573.0" y="531.0" font-size="9" fill="#55534e" text-anchor="middle" transform="rotate(-90 573.0 531.0)">2,65</text>
+<line x1="460.0" y1="360.0" x2="460.0" y2="466.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="456.0" y1="364.0" x2="464.0" y2="356.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="453.0" y1="360.0" x2="467.0" y2="360.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="456.0" y1="470.0" x2="464.0" y2="462.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="453.0" y1="466.0" x2="467.0" y2="466.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="453.0" y="413.0" font-size="9" fill="#55534e" text-anchor="middle" transform="rotate(-90 453.0 413.0)">2,65</text>
+<line x1="460.0" y1="242.0" x2="460.0" y2="348.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="456.0" y1="246.0" x2="464.0" y2="238.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="453.0" y1="242.0" x2="467.0" y2="242.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="456.0" y1="352.0" x2="464.0" y2="344.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="453.0" y1="348.0" x2="467.0" y2="348.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="453.0" y="295.0" font-size="9" fill="#55534e" text-anchor="middle" transform="rotate(-90 453.0 295.0)">2,65</text>
+<rect x="1608.0" y="584.0" width="412.0" height="15.2" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1602.0" y="599.2" width="26.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2000.0" y="599.2" width="26.0" height="26.8" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1620.0" y="478.0" width="388.0" height="106.0" rx="0" fill="#e4f1ec" stroke="none" stroke-width="0.8"/>
+<rect x="1620.0" y="360.0" width="516.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1620.0" y="242.0" width="516.0" height="106.0" rx="0" fill="#ecebfa" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="466.0" width="540.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="348.0" width="540.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="230.0" width="540.0" height="12.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="548.0" width="12.0" height="36.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="488.0" width="12.0" height="60.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1614.0" y1="548.0" x2="1614.0" y2="488.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1608.0" y="430.0" width="12.0" height="58.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="370.0" width="12.0" height="60.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1614.0" y1="430.0" x2="1614.0" y2="370.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1608.0" y="312.0" width="12.0" height="58.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1608.0" y="252.0" width="12.0" height="60.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1614.0" y1="312.0" x2="1614.0" y2="252.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1608.0" y="188.0" width="12.0" height="64.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1764.0" y="478.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1864.0" y="478.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1764.0" y="360.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1832.0" y="360.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1764.0" y="242.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1856.0" y="242.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1936.0" y="242.0" width="4.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="1656.0" y="222.0" width="28.0" height="3.2" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1694.0" y="222.0" width="28.0" height="3.2" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1732.0" y="222.0" width="28.0" height="3.2" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1770.0" y="222.0" width="28.0" height="3.2" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1808.0" y="222.0" width="28.0" height="3.2" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1846.0" y="222.0" width="28.0" height="3.2" rx="0" fill="#55534e" stroke="none" stroke-width="0.8"/>
+<rect x="1620.0" y="225.2" width="280.0" height="4.8" rx="0" fill="#cfe0b8" stroke="none" stroke-width="0.8"/>
+<rect x="2008.0" y="488.0" width="12.0" height="96.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2014.0" y1="584.0" x2="2014.0" y2="488.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2008.0" y="478.0" width="12.0" height="10.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2136.0" y="370.0" width="12.0" height="96.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2142.0" y1="466.0" x2="2142.0" y2="370.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2136.0" y="312.0" width="12.0" height="58.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="2136.0" y="252.0" width="12.0" height="60.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2142.0" y1="312.0" x2="2142.0" y2="252.0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2136.0" y="188.0" width="12.0" height="64.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="2142.0" y1="188.0" x2="2142.0" y2="188.0" stroke="#55534e" stroke-width="1"/>
+<line x1="1872.0" y1="188.0" x2="2142.0" y2="188.0" stroke="#55534e" stroke-width="0.8" stroke-dasharray="2 4"/>
+<circle cx="1992.0" cy="401.2" r="4.4" fill="#55534e"/>
+<path d="M1992.0 406.0 L1992.0 432.0 M1992.0 432.0 L1985.6 466.0 M1992.0 432.0 L1998.4 466.0 M1982.4 424.0 L1992.0 410.8 L2001.6 424.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2032.0" cy="165.2" r="4.4" fill="#55534e"/>
+<path d="M2032.0 170.0 L2032.0 196.0 M2032.0 196.0 L2025.6 230.0 M2032.0 196.0 L2038.4 230.0 M2022.4 188.0 L2032.0 174.8 L2041.6 188.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1944.0" cy="519.2" r="4.4" fill="#55534e"/>
+<path d="M1944.0 524.0 L1944.0 550.0 M1944.0 550.0 L1937.6 584.0 M1944.0 550.0 L1950.4 584.0 M1934.4 542.0 L1944.0 528.8 L1953.6 542.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1692.0" y="496.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спалня</text>
+<text x="1816.0" y="496.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">баня</text>
+<text x="1956.0" y="496.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">дневна</text>
+<text x="1692.0" y="378.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">кабинет</text>
+<text x="1800.0" y="378.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">WC</text>
+<text x="2060.0" y="378.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">дневна с кухня</text>
+<text x="1692.0" y="260.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">спалня 1</text>
+<text x="1812.0" y="260.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">баня</text>
+<text x="1898.0" y="260.0" font-size="9.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">ensuite</text>
+<text x="2064.0" y="260.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">род. спалня</text>
+<text x="1760.0" y="210.0" font-size="9" font-weight="400" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">зелен покрив и панели</text>
+<text x="2024.0" y="154.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">тераса на покрива</text>
+<text x="2084.0" y="532.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">еркер на колони</text>
+<rect x="2136.0" y="478.0" width="12.0" height="106.0" rx="0" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<line x1="1992.0" y1="478.0" x2="1992.0" y2="584.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1988.0" y1="482.0" x2="1996.0" y2="474.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1985.0" y1="478.0" x2="1999.0" y2="478.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1988.0" y1="588.0" x2="1996.0" y2="580.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1985.0" y1="584.0" x2="1999.0" y2="584.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1985.0" y="531.0" font-size="9" fill="#55534e" text-anchor="middle" transform="rotate(-90 1985.0 531.0)">2,65</text>
+<line x1="2112.0" y1="360.0" x2="2112.0" y2="466.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2108.0" y1="364.0" x2="2116.0" y2="356.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2105.0" y1="360.0" x2="2119.0" y2="360.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2108.0" y1="470.0" x2="2116.0" y2="462.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2105.0" y1="466.0" x2="2119.0" y2="466.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2105.0" y="413.0" font-size="9" fill="#55534e" text-anchor="middle" transform="rotate(-90 2105.0 413.0)">2,65</text>
+<line x1="2112.0" y1="242.0" x2="2112.0" y2="348.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2108.0" y1="246.0" x2="2116.0" y2="238.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2105.0" y1="242.0" x2="2119.0" y2="242.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2108.0" y1="352.0" x2="2116.0" y2="344.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2105.0" y1="348.0" x2="2119.0" y2="348.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2105.0" y="295.0" font-size="9" fill="#55534e" text-anchor="middle" transform="rotate(-90 2105.0 295.0)">2,65</text>
+<text x="48.0" y="736.0" font-size="14" font-weight="600" fill="#1d1d1b">Изглед от общата градина · към пътя</text>
+<text x="48.0" y="752.0" font-size="10.5" fill="#55534e">крайните стени на двата реда и алеята между тях · материалите са условни</text>
+<rect x="176.0" y="1280.0" width="2308.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="176.0" y1="1280.0" x2="2484.0" y2="1280.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="1164.0" y="1280.0" width="244.0" height="5.6" rx="0" fill="#bdb9b0" stroke="none" stroke-width="0.8"/>
+<rect x="964.0" y="1280.0" width="200.0" height="4.0" rx="0" fill="#cfe0b8" stroke="none" stroke-width="0.8"/>
+<rect x="1408.0" y="1280.0" width="200.0" height="4.0" rx="0" fill="#cfe0b8" stroke="none" stroke-width="0.8"/>
+<line x1="304.0" y1="1328.0" x2="304.0" y2="848.0" stroke="#b3261e" stroke-width="0.9" stroke-dasharray="10 3 2 3"/>
+<text x="304.0" y="838.0" font-size="9" font-weight="400" fill="#b3261e" text-anchor="middle" dominant-baseline="central">граница · ПИ 29.161</text>
+<line x1="2356.0" y1="1328.0" x2="2356.0" y2="848.0" stroke="#b3261e" stroke-width="0.9" stroke-dasharray="10 3 2 3"/>
+<text x="2356.0" y="838.0" font-size="9" font-weight="400" fill="#b3261e" text-anchor="middle" dominant-baseline="central">граница · ПИ 29.74</text>
+<path d="M978.0 1270.0 L978.0 1250.0 L1008.0 1246.0 L1030.0 1224.0 L1096.0 1224.0 L1120.0 1246.0 L1150.0 1250.0 L1150.0 1270.0 Z" fill="#f1efe8" stroke="#55534e" stroke-width="1"/>
+<circle cx="1012.0" cy="1269.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<circle cx="1116.0" cy="1269.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<path d="M1422.0 1270.0 L1422.0 1250.0 L1452.0 1246.0 L1474.0 1224.0 L1540.0 1224.0 L1564.0 1246.0 L1594.0 1250.0 L1594.0 1270.0 Z" fill="#f1efe8" stroke="#55534e" stroke-width="1"/>
+<circle cx="1456.0" cy="1269.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<circle cx="1560.0" cy="1269.0" r="11" fill="#fff" stroke="#55534e" stroke-width="1"/>
+<line x1="360.0" y1="1280.0" x2="360.0" y2="1187.6" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="360.0" cy="1165.76" r="50.4" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<line x1="2272.0" y1="1280.0" x2="2272.0" y2="1178.8" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="2272.0" cy="1154.88" r="55.199999999999996" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<circle cx="1284.0" cy="1215.2" r="4.4" fill="#55534e"/>
+<path d="M1284.0 1220.0 L1284.0 1246.0 M1284.0 1246.0 L1277.6 1280.0 M1284.0 1246.0 L1290.4 1280.0 M1274.4 1238.0 L1284.0 1224.8 L1293.6 1238.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M74.0 1271.0 L86.0 1271.0 L80.0 1280.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="1280.0" x2="142.0" y2="1280.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="1267.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M74.0 1153.0 L86.0 1153.0 L80.0 1162.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="1162.0" x2="142.0" y2="1162.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="1149.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M74.0 1035.0 L86.0 1035.0 L80.0 1044.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="1044.0" x2="142.0" y2="1044.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="1031.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M74.0 917.0 L86.0 917.0 L80.0 926.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="926.0" x2="142.0" y2="926.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="913.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+8,85</text>
+<path d="M74.0 875.0 L86.0 875.0 L80.0 884.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="70.0" y1="884.0" x2="142.0" y2="884.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="90.0" y="871.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90 парапет</text>
+<line x1="272.0" y1="880.0" x2="2388.0" y2="880.0" stroke="#b3261e" stroke-width="1" stroke-dasharray="7 4"/>
+<text x="2404.0" y="880.0" font-size="9.5" font-weight="400" fill="#b3261e" text-anchor="start" dominant-baseline="central">макс. 10,00 м</text>
+<line x1="304.0" y1="1310.0" x2="424.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="300.0" y1="1314.0" x2="308.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="304.0" y1="1303.0" x2="304.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="420.0" y1="1314.0" x2="428.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="424.0" y1="1303.0" x2="424.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="364.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">3,00</text>
+<line x1="424.0" y1="1310.0" x2="552.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="420.0" y1="1314.0" x2="428.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="424.0" y1="1303.0" x2="424.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="548.0" y1="1314.0" x2="556.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="552.0" y1="1303.0" x2="552.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="488.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">еркер 3,20</text>
+<line x1="552.0" y1="1310.0" x2="964.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="548.0" y1="1314.0" x2="556.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="552.0" y1="1303.0" x2="552.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="960.0" y1="1314.0" x2="968.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="964.0" y1="1303.0" x2="964.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="758.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">партер 10,30</text>
+<line x1="964.0" y1="1310.0" x2="1164.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="960.0" y1="1314.0" x2="968.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="964.0" y1="1303.0" x2="964.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1160.0" y1="1314.0" x2="1168.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1164.0" y1="1303.0" x2="1164.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1064.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">паркиране 5,00</text>
+<line x1="1164.0" y1="1310.0" x2="1408.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1160.0" y1="1314.0" x2="1168.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1164.0" y1="1303.0" x2="1164.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1404.0" y1="1314.0" x2="1412.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1408.0" y1="1303.0" x2="1408.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1286.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">алея 6,10</text>
+<line x1="1408.0" y1="1310.0" x2="1608.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1404.0" y1="1314.0" x2="1412.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1408.0" y1="1303.0" x2="1408.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="1604.0" y1="1314.0" x2="1612.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1608.0" y1="1303.0" x2="1608.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1508.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">паркиране 5,00</text>
+<line x1="1608.0" y1="1310.0" x2="2020.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1604.0" y1="1314.0" x2="1612.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1608.0" y1="1303.0" x2="1608.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2016.0" y1="1314.0" x2="2024.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2020.0" y1="1303.0" x2="2020.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1814.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">партер 10,30</text>
+<line x1="2020.0" y1="1310.0" x2="2148.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2016.0" y1="1314.0" x2="2024.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2020.0" y1="1303.0" x2="2020.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2144.0" y1="1314.0" x2="2152.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2148.0" y1="1303.0" x2="2148.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2084.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">еркер 3,20</text>
+<line x1="2148.0" y1="1310.0" x2="2356.0" y2="1310.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2144.0" y1="1314.0" x2="2152.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2148.0" y1="1303.0" x2="2148.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2352.0" y1="1314.0" x2="2360.0" y2="1306.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2356.0" y1="1303.0" x2="2356.0" y2="1317.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="2252.0" y="1302.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">5,20</text>
+<line x1="424.0" y1="1340.0" x2="964.0" y2="1340.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="420.0" y1="1344.0" x2="428.0" y2="1336.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="424.0" y1="1333.0" x2="424.0" y2="1347.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="960.0" y1="1344.0" x2="968.0" y2="1336.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="964.0" y1="1333.0" x2="964.0" y2="1347.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="694.0" y="1332.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">етажи 2 и 3: 13,50</text>
+<line x1="1608.0" y1="1340.0" x2="2148.0" y2="1340.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1604.0" y1="1344.0" x2="1612.0" y2="1336.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1608.0" y1="1333.0" x2="1608.0" y2="1347.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2144.0" y1="1344.0" x2="2152.0" y2="1336.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2148.0" y1="1333.0" x2="2148.0" y2="1347.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1878.0" y="1332.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">етажи 2 и 3: 13,50</text>
+<line x1="304.0" y1="1370.0" x2="2356.0" y2="1370.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="300.0" y1="1374.0" x2="308.0" y2="1366.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="304.0" y1="1363.0" x2="304.0" y2="1377.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2352.0" y1="1374.0" x2="2360.0" y2="1366.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2356.0" y1="1363.0" x2="2356.0" y2="1377.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1330.0" y="1362.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">имотът напречно: 51,30</text>
+<rect x="552.0" y="1174.0" width="412.0" height="106.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="424.0" y="1044.0" width="540.0" height="130.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="424.0" y="884.0" width="540.0" height="160.0" rx="0" fill="#dcc7a8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="424.0" y="1174.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<rect x="852.0" y="1184.0" width="64.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="604.0" y="1184.0" width="56.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="844.0" y="1066.0" width="56.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="516.0" y="1066.0" width="64.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="844.0" y="948.0" width="56.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="516.0" y="948.0" width="64.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="694.0" y="866.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">западен ред · апартамент Г и М11</text>
+<rect x="1608.0" y="1174.0" width="412.0" height="106.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="1608.0" y="1044.0" width="540.0" height="130.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="1608.0" y="884.0" width="540.0" height="160.0" rx="0" fill="#dcc7a8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="2136.0" y="1174.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<rect x="1656.0" y="1184.0" width="64.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1804.0" y="1184.0" width="24.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1912.0" y="1184.0" width="56.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1672.0" y="1066.0" width="56.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1992.0" y="1066.0" width="64.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1672.0" y="948.0" width="56.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1992.0" y="948.0" width="64.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1878.0" y="866.0" font-size="10" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">източен ред · апартамент Ж и М20</text></svg>

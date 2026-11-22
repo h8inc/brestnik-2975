@@ -1,0 +1,588 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3166 2596" width="100%" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif"><rect width="100%" height="100%" fill="#fff"/><text x="176.0" y="68.0" font-size="14" font-weight="600" fill="#1d1d1b">Фасада към алеята · Западен ред</text>
+<text x="176.0" y="84.0" font-size="10.5" fill="#55534e">гледана от алеята · 15 входни врати: по една за всеки мезонет и за всеки апартамент</text>
+<rect x="156.0" y="568.0" width="2942.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="3098.0" y1="568.0" x2="156.0" y2="568.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="296.0" y="332.0" width="2662.0" height="236.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="296.0" y="172.0" width="2662.0" height="160.0" rx="0" fill="#dcc7a8" stroke="#1d1d1b" stroke-width="1.2"/>
+<line x1="2958.0" y1="450.0" x2="296.0" y2="450.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2958.0" y1="214.0" x2="296.0" y2="214.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2716.0" y1="450.0" x2="2716.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2474.0" y1="450.0" x2="2474.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2232.0" y1="450.0" x2="2232.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1990.0" y1="450.0" x2="1990.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1748.0" y1="450.0" x2="1748.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1506.0" y1="450.0" x2="1506.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1264.0" y1="450.0" x2="1264.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1022.0" y1="450.0" x2="1022.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="780.0" y1="450.0" x2="780.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="538.0" y1="450.0" x2="538.0" y2="172.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2818.0" y="472.0" width="80.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2723.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2741.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М1</text>
+<rect x="2673.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2691.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М2</text>
+<rect x="2606.0" y="480.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2626.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">А</text>
+<rect x="2502.0" y="472.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2334.0" y="472.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2239.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2257.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М3</text>
+<rect x="2189.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2207.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М4</text>
+<rect x="2122.0" y="480.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2142.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Б</text>
+<rect x="2020.0" y="472.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1852.0" y="472.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1755.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1773.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М5</text>
+<rect x="1705.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1723.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М6</text>
+<rect x="1568.0" y="472.0" width="80.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1366.0" y="472.0" width="80.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1271.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1289.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М7</text>
+<rect x="1221.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1239.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М8</text>
+<rect x="1154.0" y="480.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1174.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">В</text>
+<rect x="1050.0" y="472.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="882.0" y="472.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="787.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="805.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М9</text>
+<rect x="737.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="755.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М10</text>
+<rect x="670.0" y="480.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="690.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Г</text>
+<rect x="568.0" y="472.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="495.0" y="480.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="513.0" y="468.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М11</text>
+<rect x="354.0" y="472.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2729.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2771.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2841.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2729.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2771.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2841.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2937.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2837.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М1</text>
+<rect x="2679.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2633.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2519.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2679.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2633.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2519.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2479.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2595.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М2</text>
+<rect x="2245.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2287.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2357.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2245.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2287.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2357.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2453.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2353.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М3</text>
+<rect x="2195.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2149.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2035.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2195.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2149.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2035.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1995.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2111.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М4</text>
+<rect x="1761.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1803.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1873.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1761.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1803.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1873.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1969.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1869.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М5</text>
+<rect x="1711.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1665.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1551.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1711.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1665.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1551.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1511.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1627.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М6</text>
+<rect x="1277.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1319.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1389.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1277.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1319.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1389.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1485.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1385.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М7</text>
+<rect x="1227.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1181.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1067.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1227.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1181.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1067.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1027.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1143.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М8</text>
+<rect x="793.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="835.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="905.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="793.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="835.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="905.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1001.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="901.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М9</text>
+<rect x="743.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="697.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="583.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="743.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="697.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="583.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="543.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="659.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М10</text>
+<rect x="501.0" y="362.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="455.0" y="362.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="341.0" y="354.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="501.0" y="244.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="455.0" y="244.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="341.0" y="236.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="301.0" y="152.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="417.0" y="226.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М11</text>
+<circle cx="2534.0" cy="503.2" r="4.4" fill="#55534e"/>
+<path d="M2534.0 508.0 L2534.0 534.0 M2534.0 534.0 L2527.6 568.0 M2534.0 534.0 L2540.4 568.0 M2524.4 526.0 L2534.0 512.8 L2543.6 526.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1096.0" cy="503.2" r="4.4" fill="#55534e"/>
+<path d="M1096.0 508.0 L1096.0 534.0 M1096.0 534.0 L1089.6 568.0 M1096.0 534.0 L1102.4 568.0 M1086.4 526.0 L1096.0 512.8 L1105.6 526.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="3026.0" y1="568.0" x2="3026.0" y2="458.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="3026.0" cy="432.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="3026.0" y="590.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към пътя</text>
+<line x1="228.0" y1="568.0" x2="228.0" y2="458.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="228.0" cy="432.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="228.0" y="590.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към общата градина</text>
+<path d="M82.0 559.0 L94.0 559.0 L88.0 568.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="568.0" x2="150.0" y2="568.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="555.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M82.0 441.0 L94.0 441.0 L88.0 450.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="450.0" x2="150.0" y2="450.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="437.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M82.0 323.0 L94.0 323.0 L88.0 332.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="332.0" x2="150.0" y2="332.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="319.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M82.0 163.0 L94.0 163.0 L88.0 172.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="172.0" x2="150.0" y2="172.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="159.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90</text>
+<line x1="2958.0" y1="616.0" x2="296.0" y2="616.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2954.0" y1="620.0" x2="2962.0" y2="612.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2958.0" y1="609.0" x2="2958.0" y2="623.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="292.0" y1="620.0" x2="300.0" y2="612.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="296.0" y1="609.0" x2="296.0" y2="623.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1627.0" y="608.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">66,55</text>
+<text x="176.0" y="704.0" font-size="14" font-weight="600" fill="#1d1d1b">Фасада към алеята · Източен ред</text>
+<text x="176.0" y="720.0" font-size="10.5" fill="#55534e">гледана от алеята · 12 входни врати: по една за всеки мезонет и за всеки апартамент</text>
+<rect x="156.0" y="1204.0" width="2458.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="2614.0" y1="1204.0" x2="156.0" y2="1204.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="296.0" y="968.0" width="2178.0" height="236.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="296.0" y="808.0" width="2178.0" height="160.0" rx="0" fill="#dcc7a8" stroke="#1d1d1b" stroke-width="1.2"/>
+<line x1="2474.0" y1="1086.0" x2="296.0" y2="1086.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2474.0" y1="850.0" x2="296.0" y2="850.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2232.0" y1="1086.0" x2="2232.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1990.0" y1="1086.0" x2="1990.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1748.0" y1="1086.0" x2="1748.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1506.0" y1="1086.0" x2="1506.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1264.0" y1="1086.0" x2="1264.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="1022.0" y1="1086.0" x2="1022.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="780.0" y1="1086.0" x2="780.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="538.0" y1="1086.0" x2="538.0" y2="808.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2334.0" y="1108.0" width="80.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2239.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2257.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М20</text>
+<rect x="2189.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2207.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М19</text>
+<rect x="2122.0" y="1116.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="2142.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Ж</text>
+<rect x="2018.0" y="1108.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1850.0" y="1108.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1755.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1773.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М18</text>
+<rect x="1705.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1723.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М17</text>
+<rect x="1638.0" y="1116.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1658.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Е</text>
+<rect x="1536.0" y="1108.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1368.0" y="1108.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1271.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1289.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М16</text>
+<rect x="1221.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="1239.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М15</text>
+<rect x="1084.0" y="1108.0" width="80.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="882.0" y="1108.0" width="80.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="787.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="805.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М14</text>
+<rect x="737.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="755.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М13</text>
+<rect x="670.0" y="1116.0" width="40.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="690.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Д</text>
+<rect x="566.0" y="1108.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="495.0" y="1116.0" width="36.0" height="88.0" rx="0" fill="#6b5a48" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="513.0" y="1104.0" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">М12</text>
+<rect x="354.0" y="1108.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2245.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2287.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2357.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2245.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2287.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2357.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2453.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2353.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М20</text>
+<rect x="2195.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2149.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2035.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2195.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2149.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2035.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1995.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2111.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М19</text>
+<rect x="1761.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1803.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1873.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1761.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1803.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1873.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1969.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1869.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М18</text>
+<rect x="1711.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1665.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1551.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1711.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1665.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1551.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1511.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1627.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М17</text>
+<rect x="1277.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1319.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1389.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1277.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1319.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1389.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1485.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1385.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М16</text>
+<rect x="1227.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1181.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1067.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1227.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1181.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1067.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1027.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1143.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М15</text>
+<rect x="793.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="835.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="905.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="793.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="835.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="905.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1001.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="901.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М14</text>
+<rect x="743.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="697.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="583.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="743.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="697.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="583.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="543.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="659.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М13</text>
+<rect x="501.0" y="998.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="455.0" y="998.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="341.0" y="990.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="501.0" y="880.0" width="24.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="455.0" y="880.0" width="28.0" height="48.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="341.0" y="872.0" width="72.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="301.0" y="788.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="417.0" y="862.0" font-size="9" font-weight="400" fill="#6b4f2a" text-anchor="middle" dominant-baseline="central">М12</text>
+<circle cx="2050.0" cy="1139.2" r="4.4" fill="#55534e"/>
+<path d="M2050.0 1144.0 L2050.0 1170.0 M2050.0 1170.0 L2043.6 1204.0 M2050.0 1170.0 L2056.4 1204.0 M2040.4 1162.0 L2050.0 1148.8 L2059.6 1162.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1096.0" cy="1139.2" r="4.4" fill="#55534e"/>
+<path d="M1096.0 1144.0 L1096.0 1170.0 M1096.0 1170.0 L1089.6 1204.0 M1096.0 1170.0 L1102.4 1204.0 M1086.4 1162.0 L1096.0 1148.8 L1105.6 1162.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="2542.0" y1="1204.0" x2="2542.0" y2="1094.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="2542.0" cy="1068.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="2542.0" y="1226.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към общата градина</text>
+<line x1="228.0" y1="1204.0" x2="228.0" y2="1094.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="228.0" cy="1068.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="228.0" y="1226.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към пътя</text>
+<path d="M82.0 1195.0 L94.0 1195.0 L88.0 1204.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="1204.0" x2="150.0" y2="1204.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="1191.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M82.0 1077.0 L94.0 1077.0 L88.0 1086.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="1086.0" x2="150.0" y2="1086.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="1073.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M82.0 959.0 L94.0 959.0 L88.0 968.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="968.0" x2="150.0" y2="968.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="955.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M82.0 799.0 L94.0 799.0 L88.0 808.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="808.0" x2="150.0" y2="808.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="795.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90</text>
+<line x1="2474.0" y1="1252.0" x2="296.0" y2="1252.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="2470.0" y1="1256.0" x2="2478.0" y2="1248.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2474.0" y1="1245.0" x2="2474.0" y2="1259.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="292.0" y1="1256.0" x2="300.0" y2="1248.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="296.0" y1="1245.0" x2="296.0" y2="1259.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1385.0" y="1244.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">54,45</text>
+<text x="176.0" y="1340.0" font-size="14" font-weight="600" fill="#1d1d1b">Фасада към дворовете · Западен ред</text>
+<text x="176.0" y="1356.0" font-size="10.5" fill="#55534e">партерът е прибран 3,20 м под еркера на колони · витрини на дневните · жив плет между дворовете</text>
+<rect x="156.0" y="1840.0" width="2942.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="156.0" y1="1840.0" x2="3098.0" y2="1840.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="296.0" y="1734.0" width="2662.0" height="106.0" rx="0" fill="#cdc9c0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="328.0" y="1744.0" width="96.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="576.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="816.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1054.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1302.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1622.0" y="1744.0" width="96.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1780.0" y="1744.0" width="96.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2028.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2268.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2506.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2752.0" y="1744.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="296.0" y="1604.0" width="2662.0" height="130.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="296.0" y="1444.0" width="2662.0" height="160.0" rx="0" fill="#dcc7a8" stroke="#1d1d1b" stroke-width="1.2"/>
+<line x1="296.0" y1="1486.0" x2="2958.0" y2="1486.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="296.0" y="1734.0" width="6.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<rect x="532.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="538.0" y1="1734.0" x2="538.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="774.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="780.0" y1="1734.0" x2="780.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1016.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1022.0" y1="1734.0" x2="1022.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1258.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1264.0" y1="1734.0" x2="1264.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1500.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1506.0" y1="1734.0" x2="1506.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1742.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1748.0" y1="1734.0" x2="1748.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1984.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1990.0" y1="1734.0" x2="1990.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2226.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="2232.0" y1="1734.0" x2="2232.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2468.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="2474.0" y1="1734.0" x2="2474.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2710.0" y="1734.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="2716.0" y1="1734.0" x2="2716.0" y2="1444.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2952.0" y="1734.0" width="6.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<rect x="321.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="417.0" y1="1722.0" x2="417.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="455.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="325.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="301.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="417.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М1</text>
+<rect x="563.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="659.0" y1="1722.0" x2="659.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="561.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="667.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="759.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="659.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М2</text>
+<rect x="805.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="901.0" y1="1722.0" x2="901.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="939.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="809.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="785.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="901.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М3</text>
+<rect x="1047.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1143.0" y1="1722.0" x2="1143.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1045.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1151.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1243.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1143.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М4</text>
+<rect x="1289.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1385.0" y1="1722.0" x2="1385.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1423.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1293.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1269.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1385.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М5</text>
+<rect x="1531.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1627.0" y1="1722.0" x2="1627.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1529.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1635.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1727.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1627.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М6</text>
+<rect x="1773.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1869.0" y1="1722.0" x2="1869.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1907.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1777.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1753.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1869.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М7</text>
+<rect x="2015.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2111.0" y1="1722.0" x2="2111.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2013.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2119.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2211.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2111.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М8</text>
+<rect x="2257.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2353.0" y1="1722.0" x2="2353.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2391.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2261.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2237.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2353.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М9</text>
+<rect x="2499.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2595.0" y1="1722.0" x2="2595.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2497.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2603.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2695.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2595.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М10</text>
+<rect x="2741.0" y="1626.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2837.0" y1="1722.0" x2="2837.0" y2="1626.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2739.0" y="1508.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2845.0" y="1508.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2937.0" y="1424.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2837.0" y="1616.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М11</text>
+<text x="659.0" y="1858.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент А</text>
+<rect x="1014.0" y="1768.0" width="16.0" height="72.0" rx="0" fill="#7fa35a" stroke="#3B6D11" stroke-width="0.8"/>
+<text x="1385.0" y="1858.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент Б</text>
+<rect x="1740.0" y="1768.0" width="16.0" height="72.0" rx="0" fill="#7fa35a" stroke="#3B6D11" stroke-width="0.8"/>
+<text x="2111.0" y="1858.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент В</text>
+<rect x="2466.0" y="1768.0" width="16.0" height="72.0" rx="0" fill="#7fa35a" stroke="#3B6D11" stroke-width="0.8"/>
+<text x="2716.0" y="1858.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент Г</text>
+<circle cx="496.0" cy="1775.2" r="4.4" fill="#55534e"/>
+<path d="M496.0 1780.0 L496.0 1806.0 M496.0 1806.0 L489.6 1840.0 M496.0 1806.0 L502.4 1840.0 M486.4 1798.0 L496.0 1784.8 L505.6 1798.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="2398.0" cy="1775.2" r="4.4" fill="#55534e"/>
+<path d="M2398.0 1780.0 L2398.0 1806.0 M2398.0 1806.0 L2391.6 1840.0 M2398.0 1806.0 L2404.4 1840.0 M2388.4 1798.0 L2398.0 1784.8 L2407.6 1798.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="228.0" y1="1840.0" x2="228.0" y2="1730.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="228.0" cy="1704.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="228.0" y="1862.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към пътя</text>
+<line x1="3026.0" y1="1840.0" x2="3026.0" y2="1730.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="3026.0" cy="1704.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="3026.0" y="1862.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към общата градина</text>
+<path d="M82.0 1831.0 L94.0 1831.0 L88.0 1840.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="1840.0" x2="150.0" y2="1840.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="1827.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M82.0 1713.0 L94.0 1713.0 L88.0 1722.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="1722.0" x2="150.0" y2="1722.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="1709.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M82.0 1595.0 L94.0 1595.0 L88.0 1604.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="1604.0" x2="150.0" y2="1604.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="1591.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M82.0 1435.0 L94.0 1435.0 L88.0 1444.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="1444.0" x2="150.0" y2="1444.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="1431.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90</text>
+<line x1="296.0" y1="1888.0" x2="2958.0" y2="1888.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="292.0" y1="1892.0" x2="300.0" y2="1884.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="296.0" y1="1881.0" x2="296.0" y2="1895.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2954.0" y1="1892.0" x2="2962.0" y2="1884.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2958.0" y1="1881.0" x2="2958.0" y2="1895.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1627.0" y="1880.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">66,55</text>
+<text x="176.0" y="1976.0" font-size="14" font-weight="600" fill="#1d1d1b">Фасада към дворовете · Източен ред</text>
+<text x="176.0" y="1992.0" font-size="10.5" fill="#55534e">партерът е прибран 3,20 м под еркера на колони · витрини на дневните · жив плет между дворовете</text>
+<rect x="156.0" y="2476.0" width="2458.0" height="52.0" rx="0" fill="#f3f0e8" stroke="none" stroke-width="0.8"/>
+<line x1="156.0" y1="2476.0" x2="2614.0" y2="2476.0" stroke="#1d1d1b" stroke-width="1.6"/>
+<rect x="296.0" y="2370.0" width="2178.0" height="106.0" rx="0" fill="#cdc9c0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="328.0" y="2380.0" width="96.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="576.0" y="2380.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="816.0" y="2380.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1054.0" y="2380.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1302.0" y="2380.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1622.0" y="2380.0" width="96.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1780.0" y="2380.0" width="96.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2028.0" y="2380.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2268.0" y="2380.0" width="168.0" height="96.0" rx="0" fill="#9fb6c8" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="296.0" y="2240.0" width="2178.0" height="130.0" rx="0" fill="#f2efe8" stroke="#1d1d1b" stroke-width="1.2"/>
+<rect x="296.0" y="2080.0" width="2178.0" height="160.0" rx="0" fill="#dcc7a8" stroke="#1d1d1b" stroke-width="1.2"/>
+<line x1="296.0" y1="2122.0" x2="2474.0" y2="2122.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="296.0" y="2370.0" width="6.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<rect x="532.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="538.0" y1="2370.0" x2="538.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="774.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="780.0" y1="2370.0" x2="780.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1016.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1022.0" y1="2370.0" x2="1022.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1258.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1264.0" y1="2370.0" x2="1264.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1500.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1506.0" y1="2370.0" x2="1506.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1742.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1748.0" y1="2370.0" x2="1748.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="1984.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="1990.0" y1="2370.0" x2="1990.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2226.0" y="2370.0" width="12.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<line x1="2232.0" y1="2370.0" x2="2232.0" y2="2080.0" stroke="#55534e" stroke-width="0.6"/>
+<rect x="2468.0" y="2370.0" width="6.0" height="106.0" rx="0" fill="#3a3936" stroke="none" stroke-width="0.8"/>
+<rect x="321.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="417.0" y1="2358.0" x2="417.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="455.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="325.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="301.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="417.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М20</text>
+<rect x="563.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="659.0" y1="2358.0" x2="659.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="561.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="667.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="759.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="659.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М19</text>
+<rect x="805.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="901.0" y1="2358.0" x2="901.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="939.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="809.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="785.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="901.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М18</text>
+<rect x="1047.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1143.0" y1="2358.0" x2="1143.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1045.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1151.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1243.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1143.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М17</text>
+<rect x="1289.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1385.0" y1="2358.0" x2="1385.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1423.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1293.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1269.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1385.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М16</text>
+<rect x="1531.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1627.0" y1="2358.0" x2="1627.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1529.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1635.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1727.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1627.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М15</text>
+<rect x="1773.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="1869.0" y1="2358.0" x2="1869.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="1907.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1777.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="1753.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="1869.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М14</text>
+<rect x="2015.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2111.0" y1="2358.0" x2="2111.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2013.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2119.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2211.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2111.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М13</text>
+<rect x="2257.0" y="2262.0" width="192.0" height="96.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<line x1="2353.0" y1="2358.0" x2="2353.0" y2="2262.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<rect x="2255.0" y="2144.0" width="60.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2361.0" y="2144.0" width="84.0" height="60.0" rx="0" fill="#b9cfe0" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="2453.0" y="2060.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#1d1d1b" stroke-width="0.9"/>
+<text x="2353.0" y="2252.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">М12</text>
+<text x="659.0" y="2494.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент Ж</text>
+<rect x="1014.0" y="2404.0" width="16.0" height="72.0" rx="0" fill="#7fa35a" stroke="#3B6D11" stroke-width="0.8"/>
+<text x="1385.0" y="2494.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент Е</text>
+<rect x="1740.0" y="2404.0" width="16.0" height="72.0" rx="0" fill="#7fa35a" stroke="#3B6D11" stroke-width="0.8"/>
+<text x="2111.0" y="2494.0" font-size="10" font-weight="600" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">двор и апартамент Д</text>
+<circle cx="496.0" cy="2411.2" r="4.4" fill="#55534e"/>
+<path d="M496.0 2416.0 L496.0 2442.0 M496.0 2442.0 L489.6 2476.0 M496.0 2442.0 L502.4 2476.0 M486.4 2434.0 L496.0 2420.8 L505.6 2434.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="1914.0" cy="2411.2" r="4.4" fill="#55534e"/>
+<path d="M1914.0 2416.0 L1914.0 2442.0 M1914.0 2442.0 L1907.6 2476.0 M1914.0 2442.0 L1920.4 2476.0 M1904.4 2434.0 L1914.0 2420.8 L1923.6 2434.0" fill="none" stroke="#55534e" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="228.0" y1="2476.0" x2="228.0" y2="2366.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="228.0" cy="2340.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="228.0" y="2498.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към общата градина</text>
+<line x1="2542.0" y1="2476.0" x2="2542.0" y2="2366.0" stroke="#6b5a45" stroke-width="3"/>
+<circle cx="2542.0" cy="2340.0" r="60.0" fill="#dfe9d0" stroke="#3B6D11" stroke-width="1"/>
+<text x="2542.0" y="2498.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">към пътя</text>
+<path d="M82.0 2467.0 L94.0 2467.0 L88.0 2476.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="2476.0" x2="150.0" y2="2476.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="2463.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">±0,00</text>
+<path d="M82.0 2349.0 L94.0 2349.0 L88.0 2358.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="2358.0" x2="150.0" y2="2358.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="2345.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+2,95</text>
+<path d="M82.0 2231.0 L94.0 2231.0 L88.0 2240.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="2240.0" x2="150.0" y2="2240.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="2227.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+5,90</text>
+<path d="M82.0 2071.0 L94.0 2071.0 L88.0 2080.0 Z" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
+<line x1="78.0" y1="2080.0" x2="150.0" y2="2080.0" stroke="#1d1d1b" stroke-width="0.7"/>
+<text x="98.0" y="2067.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="start">+9,90</text>
+<line x1="296.0" y1="2524.0" x2="2474.0" y2="2524.0" stroke="#55534e" stroke-width="0.6"/>
+<line x1="292.0" y1="2528.0" x2="300.0" y2="2520.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="296.0" y1="2517.0" x2="296.0" y2="2531.0" stroke="#55534e" stroke-width="0.5"/>
+<line x1="2470.0" y1="2528.0" x2="2478.0" y2="2520.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="2474.0" y1="2517.0" x2="2474.0" y2="2531.0" stroke="#55534e" stroke-width="0.5"/>
+<text x="1385.0" y="2516.0" font-size="9" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">54,45</text></svg>
