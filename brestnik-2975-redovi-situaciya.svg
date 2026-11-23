@@ -1,0 +1,484 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1061 1869" width="100%" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif"><defs><clipPath id="cl"><rect width="1061" height="1869"/></clipPath><pattern id="no" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#b3261e" stroke-width="1.2"/></pattern></defs><rect width="100%" height="100%" fill="#fff"/><g clip-path="url(#cl)"><polygon points="-55.7,138.6 1116.5,655.0 1155.2,567.2 -17.0,50.7" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<text x="549.8" y="356.1" font-size="10.5" font-weight="600" fill="#55534e" text-anchor="middle" transform="rotate(23.8 549.8 356.1)">ПЪТ · ПИ 06447.29.2</text>
+<polygon points="120.0,216.0 940.8,577.6 940.8,1732.8 120.0,1732.8" fill="#eef4e6" stroke="none" stroke-width="1"/>
+<polygon points="120.0,216.0 940.8,577.6 940.8,621.3 120.0,259.7" fill="#e4e1d8" stroke="none" stroke-width="1"/>
+<line x1="120.0" y1="259.7" x2="940.8" y2="621.3" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<text x="304.0" y="322.1" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(23.8 304.0 322.1)">отнемане за пътя · 2,50 м</text>
+<line x1="120.0" y1="347.1" x2="940.8" y2="708.7" stroke="#55534e" stroke-width="0.8" stroke-dasharray="6 4"/>
+<line x1="120.0" y1="1684.8" x2="940.8" y2="1684.8" stroke="#55534e" stroke-width="0.8" stroke-dasharray="6 4"/>
+<text x="16.0" y="30.4" font-size="15" font-weight="700" fill="#1d1d1b" text-anchor="start">Ситуация · 12 двуетажни редови къщи</text>
+<text x="16.0" y="52.8" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="start">по 3 къщи във всяко УПИ · ос 5,50 м · 5 м от пътя след отнемането, 3 м до страничните граници и до дъното · М 1:400 на екран</text>
+<g transform="translate(848.0,264.0) rotate(-26.6)"><circle r="18" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/><path d="M0 -16 L6 8 L0 3 L-6 8 Z" fill="#1d1d1b"/><text x="0" y="-23" font-size="11" font-weight="600" text-anchor="middle" fill="#1d1d1b">С</text></g>
+<rect x="656.0" y="347.2" width="80" height="6" fill="#1d1d1b" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="736.0" y="347.2" width="80" height="6" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="816.0" y="347.2" width="80" height="6" fill="#1d1d1b" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="896.0" y="347.2" width="80" height="6" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="656.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">0</text>
+<text x="736.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">5</text>
+<text x="816.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">10</text>
+<text x="896.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">15</text>
+<text x="976.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">20</text>
+<text x="986.0" y="366.2" font-size="9" fill="#55534e">м</text>
+<line x1="120.0" y1="966.2" x2="480.8" y2="966.2" stroke="#55534e" stroke-width="0.8" stroke-dasharray="6 4"/>
+<line x1="544.8" y1="1097.3" x2="940.8" y2="1097.3" stroke="#55534e" stroke-width="0.8" stroke-dasharray="6 4"/>
+<polygon points="480.8,374.9 544.8,403.1 544.8,1315.2 480.8,1315.2" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<text x="512.8" y="824.0" font-size="9.5" font-weight="600" fill="#55534e" text-anchor="middle" transform="rotate(-90 512.8 824.0)">ПРОХОД · 4,00 м</text>
+<text x="512.8" y="513.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(23.8 512.8 513.0)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">линия на застрояване · 5,00 м</text>
+<polygon points="170.4,281.9 210.4,299.5 210.4,327.2 170.4,327.2" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<polygon points="215.2,301.6 234.4,310.1 234.4,407.2 215.2,407.2" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="176.0" y="327.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="195.2" y="327.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="170.4" y="327.2" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="168.0" y="572.0" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="618.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="251.2" y="618.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="168.0" y="407.2" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="238.0" y="429.6" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="238.0" y1="434.1" x2="254.0" y2="434.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="438.6" x2="254.0" y2="438.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="443.0" x2="254.0" y2="443.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="447.5" x2="254.0" y2="447.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="452.0" x2="254.0" y2="452.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="456.5" x2="254.0" y2="456.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="461.0" x2="254.0" y2="461.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="465.4" x2="254.0" y2="465.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="469.9" x2="254.0" y2="469.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="474.4" x2="254.0" y2="474.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="478.9" x2="254.0" y2="478.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="483.4" x2="254.0" y2="483.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="487.8" x2="254.0" y2="487.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="492.3" x2="254.0" y2="492.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="496.8" x2="254.0" y2="496.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="501.3" x2="254.0" y2="501.3" stroke="#55534e" stroke-width="0.4"/>
+<rect x="168.0" y="407.2" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="204.0" y="482.4" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К1</text>
+<text x="204.0" y="498.4" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="212.0" y="818.7" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 270 м²</text>
+<circle cx="212.0" cy="977.4" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<polygon points="301.6,339.7 341.6,357.3 341.6,366.4 301.6,366.4" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<polygon points="277.6,329.1 296.8,337.6 296.8,446.4 277.6,446.4" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="307.2" y="366.4" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="326.4" y="366.4" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="301.6" y="366.4" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="256.0" y="611.2" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="256.0" y="657.6" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="339.2" y="657.6" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="256.0" y="446.4" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="258.0" y="468.8" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="258.0" y1="473.3" x2="274.0" y2="473.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="477.8" x2="274.0" y2="477.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="482.2" x2="274.0" y2="482.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="486.7" x2="274.0" y2="486.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="491.2" x2="274.0" y2="491.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="495.7" x2="274.0" y2="495.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="500.2" x2="274.0" y2="500.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="504.6" x2="274.0" y2="504.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="509.1" x2="274.0" y2="509.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="513.6" x2="274.0" y2="513.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="518.1" x2="274.0" y2="518.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="522.6" x2="274.0" y2="522.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="527.0" x2="274.0" y2="527.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="531.5" x2="274.0" y2="531.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="536.0" x2="274.0" y2="536.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="540.5" x2="274.0" y2="540.5" stroke="#55534e" stroke-width="0.4"/>
+<rect x="256.0" y="446.4" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="308.0" y="521.6" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К2</text>
+<text x="308.0" y="537.6" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="300.0" y="838.3" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 140 м²</text>
+<circle cx="300.0" cy="977.4" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<polygon points="346.4,359.4 386.4,377.1 386.4,404.8 346.4,404.8" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<polygon points="391.2,379.2 410.4,387.6 410.4,484.8 391.2,484.8" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="352.0" y="404.8" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="371.2" y="404.8" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="346.4" y="404.8" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="344.0" y="649.6" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="344.0" y="696.0" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="427.2" y="696.0" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="344.0" y="484.8" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="414.0" y="507.2" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="414.0" y1="511.7" x2="430.0" y2="511.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="516.2" x2="430.0" y2="516.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="520.6" x2="430.0" y2="520.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="525.1" x2="430.0" y2="525.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="529.6" x2="430.0" y2="529.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="534.1" x2="430.0" y2="534.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="538.6" x2="430.0" y2="538.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="543.0" x2="430.0" y2="543.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="547.5" x2="430.0" y2="547.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="552.0" x2="430.0" y2="552.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="556.5" x2="430.0" y2="556.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="561.0" x2="430.0" y2="561.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="565.4" x2="430.0" y2="565.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="569.9" x2="430.0" y2="569.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="574.4" x2="430.0" y2="574.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="578.9" x2="430.0" y2="578.9" stroke="#55534e" stroke-width="0.4"/>
+<rect x="344.0" y="484.8" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="380.0" y="560.0" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К3</text>
+<text x="380.0" y="576.0" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="388.0" y="857.5" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 230 м²</text>
+<circle cx="388.0" cy="977.4" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<line x1="256.0" y1="662.4" x2="256.0" y2="1014.2" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<line x1="344.0" y1="700.8" x2="344.0" y2="1014.2" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<text x="149.6" y="710.7" font-size="10.5" font-weight="700" fill="#b3261e" text-anchor="middle" transform="rotate(-90 149.6 710.7)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">УПИ 1 · 951 м²</text>
+<rect x="168.0" y="1014.2" width="312.8" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<text x="324.4" y="1058.2" font-size="8.5" font-weight="600" fill="#55534e" text-anchor="middle">вътрешна алея · 5,00 м</text>
+<rect x="215.2" y="1094.2" width="19.2" height="80.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="176.0" y="1094.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="195.2" y="1094.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="170.4" y="1094.2" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1339.0" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1385.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="251.2" y="1385.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="168.0" y="1174.2" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="238.0" y="1196.6" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="238.0" y1="1201.1" x2="254.0" y2="1201.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1205.6" x2="254.0" y2="1205.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1210.1" x2="254.0" y2="1210.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1214.6" x2="254.0" y2="1214.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1219.0" x2="254.0" y2="1219.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1223.5" x2="254.0" y2="1223.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1228.0" x2="254.0" y2="1228.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1232.5" x2="254.0" y2="1232.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1237.0" x2="254.0" y2="1237.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1241.4" x2="254.0" y2="1241.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1245.9" x2="254.0" y2="1245.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1250.4" x2="254.0" y2="1250.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1254.9" x2="254.0" y2="1254.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1259.4" x2="254.0" y2="1259.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1263.8" x2="254.0" y2="1263.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="238.0" y1="1268.3" x2="254.0" y2="1268.3" stroke="#55534e" stroke-width="0.4"/>
+<rect x="168.0" y="1174.2" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="204.0" y="1249.4" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К4</text>
+<text x="204.0" y="1265.4" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="212.0" y="1561.5" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 240 м²</text>
+<circle cx="212.0" cy="1696.0" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<rect x="277.6" y="1094.2" width="19.2" height="80.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="307.2" y="1094.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="326.4" y="1094.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="301.6" y="1094.2" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="256.0" y="1339.0" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="256.0" y="1385.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="339.2" y="1385.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="256.0" y="1174.2" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="258.0" y="1196.6" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="258.0" y1="1201.1" x2="274.0" y2="1201.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1205.6" x2="274.0" y2="1205.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1210.1" x2="274.0" y2="1210.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1214.6" x2="274.0" y2="1214.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1219.0" x2="274.0" y2="1219.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1223.5" x2="274.0" y2="1223.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1228.0" x2="274.0" y2="1228.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1232.5" x2="274.0" y2="1232.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1237.0" x2="274.0" y2="1237.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1241.4" x2="274.0" y2="1241.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1245.9" x2="274.0" y2="1245.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1250.4" x2="274.0" y2="1250.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1254.9" x2="274.0" y2="1254.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1259.4" x2="274.0" y2="1259.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1263.8" x2="274.0" y2="1263.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="258.0" y1="1268.3" x2="274.0" y2="1268.3" stroke="#55534e" stroke-width="0.4"/>
+<rect x="256.0" y="1174.2" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="308.0" y="1249.4" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К5</text>
+<text x="308.0" y="1265.4" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="300.0" y="1561.5" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 140 м²</text>
+<circle cx="300.0" cy="1696.0" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<rect x="391.2" y="1094.2" width="19.2" height="80.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="352.0" y="1094.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="371.2" y="1094.2" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="346.4" y="1094.2" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="344.0" y="1339.0" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="344.0" y="1385.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="427.2" y="1385.4" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="344.0" y="1174.2" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="414.0" y="1196.6" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="414.0" y1="1201.1" x2="430.0" y2="1201.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1205.6" x2="430.0" y2="1205.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1210.1" x2="430.0" y2="1210.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1214.6" x2="430.0" y2="1214.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1219.0" x2="430.0" y2="1219.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1223.5" x2="430.0" y2="1223.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1228.0" x2="430.0" y2="1228.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1232.5" x2="430.0" y2="1232.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1237.0" x2="430.0" y2="1237.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1241.4" x2="430.0" y2="1241.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1245.9" x2="430.0" y2="1245.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1250.4" x2="430.0" y2="1250.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1254.9" x2="430.0" y2="1254.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1259.4" x2="430.0" y2="1259.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1263.8" x2="430.0" y2="1263.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="414.0" y1="1268.3" x2="430.0" y2="1268.3" stroke="#55534e" stroke-width="0.4"/>
+<rect x="344.0" y="1174.2" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="380.0" y="1249.4" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К6</text>
+<text x="380.0" y="1265.4" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="388.0" y="1561.5" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 240 м²</text>
+<circle cx="388.0" cy="1696.0" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<line x1="256.0" y1="1390.2" x2="256.0" y2="1732.8" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<line x1="344.0" y1="1390.2" x2="344.0" y2="1732.8" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<text x="149.6" y="1453.5" font-size="10.5" font-weight="700" fill="#b3261e" text-anchor="middle" transform="rotate(-90 149.6 1453.5)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">УПИ 2 · 1013 м²</text>
+<polygon points="613.2,477.0 653.2,494.6 653.2,522.4 613.2,522.4" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<polygon points="658.0,496.7 677.2,505.2 677.2,602.4 658.0,602.4" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="618.8" y="522.4" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="638.0" y="522.4" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="613.2" y="522.4" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="610.8" y="767.2" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="610.8" y="813.6" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="694.0" y="813.6" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="610.8" y="602.4" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="680.8" y="624.8" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="680.8" y1="629.3" x2="696.8" y2="629.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="633.8" x2="696.8" y2="633.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="638.2" x2="696.8" y2="638.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="642.7" x2="696.8" y2="642.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="647.2" x2="696.8" y2="647.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="651.7" x2="696.8" y2="651.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="656.2" x2="696.8" y2="656.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="660.6" x2="696.8" y2="660.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="665.1" x2="696.8" y2="665.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="669.6" x2="696.8" y2="669.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="674.1" x2="696.8" y2="674.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="678.6" x2="696.8" y2="678.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="683.0" x2="696.8" y2="683.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="687.5" x2="696.8" y2="687.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="692.0" x2="696.8" y2="692.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="696.5" x2="696.8" y2="696.5" stroke="#55534e" stroke-width="0.4"/>
+<rect x="610.8" y="602.4" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="646.8" y="677.6" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К7</text>
+<text x="646.8" y="693.6" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="654.8" y="981.8" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 270 м²</text>
+<circle cx="654.8" cy="1108.5" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<polygon points="744.4,534.8 784.4,552.4 784.4,561.6 744.4,561.6" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<polygon points="720.4,524.2 739.6,532.7 739.6,641.6 720.4,641.6" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="750.0" y="561.6" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="769.2" y="561.6" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="744.4" y="561.6" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="698.8" y="806.4" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="698.8" y="852.8" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="782.0" y="852.8" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="698.8" y="641.6" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="700.8" y="664.0" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="700.8" y1="668.5" x2="716.8" y2="668.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="673.0" x2="716.8" y2="673.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="677.4" x2="716.8" y2="677.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="681.9" x2="716.8" y2="681.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="686.4" x2="716.8" y2="686.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="690.9" x2="716.8" y2="690.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="695.4" x2="716.8" y2="695.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="699.8" x2="716.8" y2="699.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="704.3" x2="716.8" y2="704.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="708.8" x2="716.8" y2="708.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="713.3" x2="716.8" y2="713.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="717.8" x2="716.8" y2="717.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="722.2" x2="716.8" y2="722.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="726.7" x2="716.8" y2="726.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="731.2" x2="716.8" y2="731.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="735.7" x2="716.8" y2="735.7" stroke="#55534e" stroke-width="0.4"/>
+<rect x="698.8" y="641.6" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="750.8" y="716.8" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К8</text>
+<text x="750.8" y="732.8" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="742.8" y="1001.4" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 120 м²</text>
+<circle cx="742.8" cy="1108.5" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<polygon points="789.2,554.5 829.2,572.1 829.2,600.0 789.2,600.0" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<polygon points="834.0,574.3 853.2,582.7 853.2,680.0 834.0,680.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="794.8" y="600.0" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="814.0" y="600.0" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="789.2" y="600.0" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="786.8" y="844.8" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="786.8" y="891.2" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="870.0" y="891.2" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="786.8" y="680.0" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="856.8" y="702.4" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="856.8" y1="706.9" x2="872.8" y2="706.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="711.4" x2="872.8" y2="711.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="715.8" x2="872.8" y2="715.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="720.3" x2="872.8" y2="720.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="724.8" x2="872.8" y2="724.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="729.3" x2="872.8" y2="729.3" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="733.8" x2="872.8" y2="733.8" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="738.2" x2="872.8" y2="738.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="742.7" x2="872.8" y2="742.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="747.2" x2="872.8" y2="747.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="751.7" x2="872.8" y2="751.7" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="756.2" x2="872.8" y2="756.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="760.6" x2="872.8" y2="760.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="765.1" x2="872.8" y2="765.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="769.6" x2="872.8" y2="769.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="774.1" x2="872.8" y2="774.1" stroke="#55534e" stroke-width="0.4"/>
+<rect x="786.8" y="680.0" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="822.8" y="755.2" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К9</text>
+<text x="822.8" y="771.2" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="830.8" y="1020.6" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 220 м²</text>
+<circle cx="830.8" cy="1108.5" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<line x1="698.8" y1="857.6" x2="698.8" y2="1145.3" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<line x1="786.8" y1="896.0" x2="786.8" y2="1145.3" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<text x="583.4" y="873.8" font-size="10.5" font-weight="700" fill="#b3261e" text-anchor="middle" transform="rotate(-90 583.4 873.8)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">УПИ 3 · 945 м²</text>
+<rect x="544.8" y="1145.3" width="330.0" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<text x="709.8" y="1189.3" font-size="8.5" font-weight="600" fill="#55534e" text-anchor="middle">вътрешна алея · 5,00 м</text>
+<rect x="658.0" y="1225.3" width="19.2" height="80.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="618.8" y="1225.3" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="638.0" y="1225.3" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="613.2" y="1225.3" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="610.8" y="1470.1" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="610.8" y="1516.5" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="694.0" y="1516.5" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="610.8" y="1305.3" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="680.8" y="1327.7" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="680.8" y1="1332.2" x2="696.8" y2="1332.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1336.6" x2="696.8" y2="1336.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1341.1" x2="696.8" y2="1341.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1345.6" x2="696.8" y2="1345.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1350.1" x2="696.8" y2="1350.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1354.6" x2="696.8" y2="1354.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1359.0" x2="696.8" y2="1359.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1363.5" x2="696.8" y2="1363.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1368.0" x2="696.8" y2="1368.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1372.5" x2="696.8" y2="1372.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1377.0" x2="696.8" y2="1377.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1381.4" x2="696.8" y2="1381.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1385.9" x2="696.8" y2="1385.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1390.4" x2="696.8" y2="1390.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1394.9" x2="696.8" y2="1394.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="680.8" y1="1399.4" x2="696.8" y2="1399.4" stroke="#55534e" stroke-width="0.4"/>
+<rect x="610.8" y="1305.3" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="646.8" y="1380.5" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К10</text>
+<text x="646.8" y="1396.5" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="654.8" y="1627.0" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 300 м²</text>
+<circle cx="654.8" cy="1696.0" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<rect x="720.4" y="1225.3" width="19.2" height="80.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="750.0" y="1225.3" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="769.2" y="1225.3" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="744.4" y="1225.3" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="698.8" y="1470.1" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="698.8" y="1516.5" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="782.0" y="1516.5" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="698.8" y="1305.3" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="700.8" y="1327.7" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="700.8" y1="1332.2" x2="716.8" y2="1332.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1336.6" x2="716.8" y2="1336.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1341.1" x2="716.8" y2="1341.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1345.6" x2="716.8" y2="1345.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1350.1" x2="716.8" y2="1350.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1354.6" x2="716.8" y2="1354.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1359.0" x2="716.8" y2="1359.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1363.5" x2="716.8" y2="1363.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1368.0" x2="716.8" y2="1368.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1372.5" x2="716.8" y2="1372.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1377.0" x2="716.8" y2="1377.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1381.4" x2="716.8" y2="1381.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1385.9" x2="716.8" y2="1385.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1390.4" x2="716.8" y2="1390.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1394.9" x2="716.8" y2="1394.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="700.8" y1="1399.4" x2="716.8" y2="1399.4" stroke="#55534e" stroke-width="0.4"/>
+<rect x="698.8" y="1305.3" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="750.8" y="1380.5" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К11</text>
+<text x="750.8" y="1396.5" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="742.8" y="1627.0" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 90 м²</text>
+<circle cx="742.8" cy="1696.0" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<rect x="834.0" y="1225.3" width="19.2" height="80.0" fill="#d2cfc7" stroke="#55534e" stroke-width="0.5"/>
+<rect x="794.8" y="1225.3" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="814.0" y="1225.3" width="9.6" height="80" fill="#d2cfc7" stroke="none" stroke-width="0.8"/>
+<rect x="789.2" y="1225.3" width="40.0" height="80" fill="none" stroke="#1d1d1b" stroke-width="0.9" stroke-dasharray="5 4"/>
+<rect x="786.8" y="1470.1" width="88.0" height="51.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="786.8" y="1516.5" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="870.0" y="1516.5" width="4.8" height="4.8" fill="#1d1d1b" stroke="none" stroke-width="0.8"/>
+<rect x="786.8" y="1305.3" width="88.0" height="164.8" fill="#fff" stroke="none" stroke-width="0.8"/>
+<rect x="856.8" y="1327.7" width="16.0" height="76.2" fill="#e7e5df" stroke="#55534e" stroke-width="0.6"/>
+<line x1="856.8" y1="1332.2" x2="872.8" y2="1332.2" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1336.6" x2="872.8" y2="1336.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1341.1" x2="872.8" y2="1341.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1345.6" x2="872.8" y2="1345.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1350.1" x2="872.8" y2="1350.1" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1354.6" x2="872.8" y2="1354.6" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1359.0" x2="872.8" y2="1359.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1363.5" x2="872.8" y2="1363.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1368.0" x2="872.8" y2="1368.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1372.5" x2="872.8" y2="1372.5" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1377.0" x2="872.8" y2="1377.0" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1381.4" x2="872.8" y2="1381.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1385.9" x2="872.8" y2="1385.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1390.4" x2="872.8" y2="1390.4" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1394.9" x2="872.8" y2="1394.9" stroke="#55534e" stroke-width="0.4"/>
+<line x1="856.8" y1="1399.4" x2="872.8" y2="1399.4" stroke="#55534e" stroke-width="0.4"/>
+<rect x="786.8" y="1305.3" width="88.0" height="164.8" fill="none" stroke="#1d1d1b" stroke-width="3"/>
+<text x="822.8" y="1380.5" font-size="10.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К12</text>
+<text x="822.8" y="1396.5" font-size="7.5" font-weight="400" fill="#55534e" text-anchor="middle">131 м²</text>
+<text x="830.8" y="1627.0" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">двор ≈ 200 м²</text>
+<circle cx="830.8" cy="1696.0" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<line x1="698.8" y1="1521.3" x2="698.8" y2="1732.8" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<line x1="786.8" y1="1521.3" x2="786.8" y2="1732.8" stroke="#3B6D11" stroke-width="2.5" stroke-dasharray="3 5"/>
+<text x="583.4" y="1519.0" font-size="10.5" font-weight="700" fill="#b3261e" text-anchor="middle" transform="rotate(-90 583.4 1519.0)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">УПИ 4 · 1013 м²</text>
+<line x1="120.0" y1="1014.2" x2="480.8" y2="1014.2" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<line x1="544.8" y1="1145.3" x2="940.8" y2="1145.3" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<line x1="480.8" y1="374.9" x2="480.8" y2="1732.8" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<line x1="544.8" y1="403.1" x2="544.8" y2="1315.2" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<line x1="480.8" y1="1315.2" x2="544.8" y2="1315.2" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<polygon points="120.0,216.0 940.8,577.6 940.8,1732.8 120.0,1732.8" fill="none" stroke="#b3261e" stroke-width="1.4" stroke-dasharray="10 3 2 3"/>
+<text x="256.0" y="267.1" font-size="8.5" font-weight="400" fill="#b3261e" text-anchor="middle" transform="rotate(23.8 256.0 267.1)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">лице към пътя ≈ 56 м</text>
+<line x1="120.0" y1="1769.6" x2="940.8" y2="1769.6" stroke="#55534e" stroke-width="0.7"/>
+<line x1="116.0" y1="1773.6" x2="124.0" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="164.0" y1="1773.6" x2="172.0" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="252.0" y1="1773.6" x2="260.0" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="340.0" y1="1773.6" x2="348.0" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="428.0" y1="1773.6" x2="436.0" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="476.8" y1="1773.6" x2="484.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="540.8" y1="1773.6" x2="548.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="606.8" y1="1773.6" x2="614.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="694.8" y1="1773.6" x2="702.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="782.8" y1="1773.6" x2="790.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="870.8" y1="1773.6" x2="878.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="936.8" y1="1773.6" x2="944.8" y2="1765.6" stroke="#1d1d1b" stroke-width="1"/>
+<text x="144.0" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">3,00</text>
+<text x="212.0" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,50</text>
+<text x="300.0" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,50</text>
+<text x="388.0" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,50</text>
+<text x="456.4" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">3,05</text>
+<text x="512.8" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">4,00</text>
+<text x="577.8" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">4,12</text>
+<text x="654.8" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,50</text>
+<text x="742.8" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,50</text>
+<text x="830.8" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,50</text>
+<text x="907.8" y="1764.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">4,12</text>
+<line x1="120.0" y1="1806.4" x2="940.8" y2="1806.4" stroke="#55534e" stroke-width="0.7"/>
+<line x1="116.0" y1="1810.4" x2="124.0" y2="1802.4" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="936.8" y1="1810.4" x2="944.8" y2="1802.4" stroke="#1d1d1b" stroke-width="1"/>
+<text x="530.4" y="1800.8" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">дъно 51,30</text>
+<text x="145.6" y="1833.6" font-size="8" font-weight="400" fill="#55534e" text-anchor="start">отстояние · три къщи · отстояние · проход · отстояние · три къщи · отстояние</text>
+<line x1="83.2" y1="407.2" x2="83.2" y2="1014.2" stroke="#55534e" stroke-width="0.7"/>
+<line x1="79.2" y1="411.2" x2="87.2" y2="403.2" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="79.2" y1="627.2" x2="87.2" y2="619.2" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="79.2" y1="1018.2" x2="87.2" y2="1010.2" stroke="#1d1d1b" stroke-width="1"/>
+<text x="76.8" y="515.2" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 76.8 515.2)">К1 · 13,50</text>
+<text x="76.8" y="818.7" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 76.8 818.7)">24,44</text>
+<line x1="83.2" y1="1014.2" x2="83.2" y2="1732.8" stroke="#55534e" stroke-width="0.7"/>
+<line x1="79.2" y1="1018.2" x2="87.2" y2="1010.2" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="79.2" y1="1098.2" x2="87.2" y2="1090.2" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="79.2" y1="1178.2" x2="87.2" y2="1170.2" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="79.2" y1="1394.2" x2="87.2" y2="1386.2" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="79.2" y1="1736.8" x2="87.2" y2="1728.8" stroke="#1d1d1b" stroke-width="1"/>
+<text x="76.8" y="1054.2" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 76.8 1054.2)">алея 5,00</text>
+<text x="76.8" y="1134.2" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 76.8 1134.2)">паркиране 5,00</text>
+<text x="76.8" y="1282.2" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 76.8 1282.2)">къща 13,50</text>
+<text x="76.8" y="1561.5" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 76.8 1561.5)">21,41</text>
+<line x1="46.4" y1="216.0" x2="46.4" y2="1732.8" stroke="#55534e" stroke-width="0.7"/>
+<line x1="42.4" y1="220.0" x2="50.4" y2="212.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="42.4" y1="1736.8" x2="50.4" y2="1728.8" stroke="#1d1d1b" stroke-width="1"/>
+<text x="40.0" y="974.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 40.0 974.4)">северозападна страна 94,80 · към ПИ 29.161</text>
+<line x1="977.6" y1="680.0" x2="977.6" y2="1145.3" stroke="#55534e" stroke-width="0.7"/>
+<line x1="973.6" y1="684.0" x2="981.6" y2="676.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="973.6" y1="900.0" x2="981.6" y2="892.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="973.6" y1="1149.3" x2="981.6" y2="1141.3" stroke="#1d1d1b" stroke-width="1"/>
+<text x="984.0" y="788.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 984.0 788.0)">К9 · 13,50</text>
+<text x="984.0" y="1020.6" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 984.0 1020.6)">15,58</text>
+<line x1="977.6" y1="1145.3" x2="977.6" y2="1732.8" stroke="#55534e" stroke-width="0.7"/>
+<line x1="973.6" y1="1149.3" x2="981.6" y2="1141.3" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="973.6" y1="1229.3" x2="981.6" y2="1221.3" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="973.6" y1="1309.3" x2="981.6" y2="1301.3" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="973.6" y1="1525.3" x2="981.6" y2="1517.3" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="973.6" y1="1736.8" x2="981.6" y2="1728.8" stroke="#1d1d1b" stroke-width="1"/>
+<text x="984.0" y="1185.3" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 984.0 1185.3)">алея 5,00</text>
+<text x="984.0" y="1265.3" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 984.0 1265.3)">паркиране 5,00</text>
+<text x="984.0" y="1413.3" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 984.0 1413.3)">къща 13,50</text>
+<text x="984.0" y="1627.0" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 984.0 1627.0)">13,22</text>
+<line x1="1014.4" y1="577.6" x2="1014.4" y2="1732.8" stroke="#55534e" stroke-width="0.7"/>
+<line x1="1010.4" y1="581.6" x2="1018.4" y2="573.6" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="1010.4" y1="1736.8" x2="1018.4" y2="1728.8" stroke="#1d1d1b" stroke-width="1"/>
+<text x="1020.8" y="1155.2" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(-90 1020.8 1155.2)">югоизточна страна 72,20 · към ПИ 29.74</text></g></svg>
