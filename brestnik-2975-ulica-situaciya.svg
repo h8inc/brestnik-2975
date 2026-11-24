@@ -1,0 +1,315 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1061 1869" width="100%" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif"><defs><clipPath id="cl"><rect width="1061" height="1869"/></clipPath><pattern id="no" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#b3261e" stroke-width="1.2"/></pattern></defs><rect width="100%" height="100%" fill="#fff"/><g clip-path="url(#cl)"><polygon points="-55.7,138.6 1116.5,655.0 1155.2,567.2 -17.0,50.7" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<text x="549.8" y="356.1" font-size="10.5" font-weight="600" fill="#55534e" text-anchor="middle" transform="rotate(23.8 549.8 356.1)">ПЪТ · ПИ 06447.29.2</text>
+<polygon points="120.0,216.0 940.8,577.6 940.8,1732.8 120.0,1732.8" fill="#eef4e6" stroke="none" stroke-width="1"/>
+<polygon points="120.0,216.0 940.8,577.6 940.8,621.3 120.0,259.7" fill="#e4e1d8" stroke="none" stroke-width="1"/>
+<line x1="120.0" y1="259.7" x2="940.8" y2="621.3" stroke="#b3261e" stroke-width="1" stroke-dasharray="8 3 2 3"/>
+<text x="304.0" y="322.1" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle" transform="rotate(23.8 304.0 322.1)">отнемане за пътя · 2,50 м</text>
+<line x1="120.0" y1="347.1" x2="940.8" y2="708.7" stroke="#55534e" stroke-width="0.8" stroke-dasharray="6 4"/>
+<line x1="120.0" y1="1684.8" x2="940.8" y2="1684.8" stroke="#55534e" stroke-width="0.8" stroke-dasharray="6 4"/>
+<text x="16.0" y="30.4" font-size="15" font-weight="700" fill="#1d1d1b" text-anchor="start">Ситуация · улица по средата, два реда редови къщи</text>
+<text x="16.0" y="52.8" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="start">24 къщи по 131 м² · всяка на своя ивица с ограда, с вход и паркомясто откъм улицата · без алея по границата и без пътеки</text>
+<g transform="translate(848.0,264.0) rotate(-26.6)"><circle r="18" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/><path d="M0 -16 L6 8 L0 3 L-6 8 Z" fill="#1d1d1b"/><text x="0" y="-23" font-size="11" font-weight="600" text-anchor="middle" fill="#1d1d1b">С</text></g>
+<rect x="656.0" y="347.2" width="80" height="6" fill="#1d1d1b" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="736.0" y="347.2" width="80" height="6" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="816.0" y="347.2" width="80" height="6" fill="#1d1d1b" stroke="#1d1d1b" stroke-width="0.8"/>
+<rect x="896.0" y="347.2" width="80" height="6" fill="#fff" stroke="#1d1d1b" stroke-width="0.8"/>
+<text x="656.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">0</text>
+<text x="736.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">5</text>
+<text x="816.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">10</text>
+<text x="896.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">15</text>
+<text x="976.0" y="366.2" font-size="9" text-anchor="middle" fill="#55534e">20</text>
+<text x="986.0" y="366.2" font-size="9" fill="#55534e">м</text>
+<polygon points="192.0,1630.4 336.0,1630.4 336.0,1716.8 192.0,1716.8" fill="#f4efe0" stroke="#55534e" stroke-width="0.8" stroke-dasharray="4 3"/>
+<text x="264.0" y="1670.4" font-size="8" font-weight="600" fill="#55534e" text-anchor="middle">детска площадка</text>
+<text x="264.0" y="1688.0" font-size="8" font-weight="600" fill="#3B6D11" text-anchor="middle">обща градинка</text>
+<circle cx="155.2" cy="1672.0" r="17.6" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<circle cx="360.0" cy="1686.4" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<circle cx="760.0" cy="1691.2" r="17.6" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<circle cx="872.0" cy="1691.2" r="17.6" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<circle cx="616.0" cy="622.4" r="19.2" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<circle cx="763.2" cy="657.6" r="14.4" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<circle cx="192.0" cy="396.8" r="19.2" fill="#cfe0b8" stroke="#3B6D11" stroke-width="0.9"/>
+<polygon points="480.0,374.6 576.0,416.9 576.0,1648.0 672.0,1648.0 672.0,1728.0 384.0,1728.0 384.0,1648.0 480.0,1648.0" fill="#d2cfc7" stroke="none" stroke-width="1"/>
+<text x="532.0" y="1080.0" font-size="9.5" font-weight="600" fill="#55534e" text-anchor="middle" transform="rotate(-90 532.0 1080.0)">УЛИЦА · 6,00 м · двупосочна, без изход</text>
+<text x="528.0" y="1692.8" font-size="8" font-weight="600" fill="#55534e" text-anchor="middle">обръщало</text>
+<polygon points="269.6,325.6 306.2,341.7 274.0,415.0 237.3,398.8" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="306.2,341.7 342.8,357.9 310.6,431.1 274.0,415.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="342.8,357.9 379.4,374.0 347.2,447.2 310.6,431.1" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="379.4,374.0 416.0,390.1 383.8,463.3 347.2,447.2" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="609.6,475.4 646.2,491.5 614.0,564.7 577.3,548.6" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="646.2,491.5 682.8,507.7 650.6,580.9 614.0,564.7" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="682.8,507.7 719.4,523.8 687.2,597.0 650.6,580.9" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="719.4,523.8 756.0,539.9 723.8,613.1 687.2,597.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<polygon points="756.0,539.9 792.6,556.0 760.4,629.2 723.8,613.1" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<text x="675.5" y="621.3" font-size="8.5" font-weight="600" fill="#55534e" text-anchor="middle" transform="rotate(23.8 675.5 621.3)" paint-order="stroke" stroke="#fff" stroke-width="3" stroke-linejoin="round">9 места за гости</text>
+<rect x="120.0" y="463.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="463.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="467.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="510.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="463.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="463.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="519.5" x2="350.4" y2="519.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="512.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К1</text>
+<line x1="120.0" y1="463.5" x2="480.0" y2="463.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="528.3" x2="480.0" y2="551.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="551.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="551.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="555.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="598.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="551.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="551.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="607.5" x2="350.4" y2="607.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="600.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К2</text>
+<line x1="120.0" y1="551.5" x2="480.0" y2="551.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="616.3" x2="480.0" y2="639.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="639.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="639.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="643.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="686.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="639.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="639.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="695.5" x2="350.4" y2="695.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="688.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К3</text>
+<line x1="120.0" y1="639.5" x2="480.0" y2="639.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="704.3" x2="480.0" y2="727.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="727.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="727.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="731.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="774.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="727.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="727.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="783.5" x2="350.4" y2="783.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="776.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К4</text>
+<line x1="120.0" y1="727.5" x2="480.0" y2="727.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="792.3" x2="480.0" y2="815.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="815.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="815.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="819.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="862.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="815.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="815.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="871.5" x2="350.4" y2="871.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="864.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К5</text>
+<line x1="120.0" y1="815.5" x2="480.0" y2="815.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="880.3" x2="480.0" y2="903.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="903.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="903.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="907.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="950.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="903.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="903.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="959.5" x2="350.4" y2="959.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="952.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К6</text>
+<line x1="120.0" y1="903.5" x2="480.0" y2="903.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="968.3" x2="480.0" y2="991.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="991.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="991.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="995.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1038.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="991.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="991.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1047.5" x2="350.4" y2="1047.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1040.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К7</text>
+<line x1="120.0" y1="991.5" x2="480.0" y2="991.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1056.3" x2="480.0" y2="1079.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="1079.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="1079.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="1083.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1126.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="1079.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1079.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1135.5" x2="350.4" y2="1135.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1128.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К8</text>
+<line x1="120.0" y1="1079.5" x2="480.0" y2="1079.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1144.3" x2="480.0" y2="1167.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="1167.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="1167.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="1171.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1214.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="1167.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1167.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1223.5" x2="350.4" y2="1223.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1216.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К9</text>
+<line x1="120.0" y1="1167.5" x2="480.0" y2="1167.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1232.3" x2="480.0" y2="1255.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="1255.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="1255.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="1259.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1302.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="1255.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1255.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1311.5" x2="350.4" y2="1311.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1304.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К10</text>
+<line x1="120.0" y1="1255.5" x2="480.0" y2="1255.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1320.3" x2="480.0" y2="1343.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="1343.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="1343.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="1347.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1390.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="1343.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1343.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1399.5" x2="350.4" y2="1399.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1392.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К11</text>
+<line x1="120.0" y1="1343.5" x2="480.0" y2="1343.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1408.3" x2="480.0" y2="1431.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="1431.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="1431.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="1435.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1478.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="1431.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1431.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1487.5" x2="350.4" y2="1487.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1480.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К12</text>
+<line x1="120.0" y1="1431.5" x2="480.0" y2="1431.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1496.3" x2="480.0" y2="1519.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="120.0" y="1519.5" width="48.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="384.0" y="1519.5" width="96.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="400.0" y="1523.5" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="384.0" y="1566.7" width="96.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="332.8" y="1519.5" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="168.0" y="1519.5" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="332.8" y1="1575.5" x2="350.4" y2="1575.5" stroke="#55534e" stroke-width="2.2"/>
+<text x="250.4" y="1568.3" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К13</text>
+<line x1="120.0" y1="1519.5" x2="480.0" y2="1519.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="480.0" y1="1584.3" x2="480.0" y2="1607.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="678.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="678.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="682.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="725.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="678.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="678.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="734.6" x2="638.4" y2="734.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="727.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К14</text>
+<line x1="576.0" y1="678.6" x2="940.8" y2="678.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="743.4" x2="576.0" y2="766.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="766.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="766.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="770.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="813.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="766.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="766.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="822.6" x2="638.4" y2="822.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="815.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К15</text>
+<line x1="576.0" y1="766.6" x2="940.8" y2="766.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="831.4" x2="576.0" y2="854.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="854.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="854.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="858.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="901.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="854.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="854.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="910.6" x2="638.4" y2="910.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="903.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К16</text>
+<line x1="576.0" y1="854.6" x2="940.8" y2="854.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="919.4" x2="576.0" y2="942.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="942.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="942.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="946.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="989.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="942.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="942.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="998.6" x2="638.4" y2="998.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="991.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К17</text>
+<line x1="576.0" y1="942.6" x2="940.8" y2="942.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1007.4" x2="576.0" y2="1030.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1030.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1030.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1034.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1077.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1030.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1030.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1086.6" x2="638.4" y2="1086.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1079.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К18</text>
+<line x1="576.0" y1="1030.6" x2="940.8" y2="1030.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1095.4" x2="576.0" y2="1118.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1118.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1118.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1122.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1165.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1118.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1118.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1174.6" x2="638.4" y2="1174.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1167.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К19</text>
+<line x1="576.0" y1="1118.6" x2="940.8" y2="1118.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1183.4" x2="576.0" y2="1206.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1206.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1206.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1210.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1253.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1206.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1206.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1262.6" x2="638.4" y2="1262.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1255.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К20</text>
+<line x1="576.0" y1="1206.6" x2="940.8" y2="1206.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1271.4" x2="576.0" y2="1294.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1294.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1294.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1298.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1341.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1294.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1294.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1350.6" x2="638.4" y2="1350.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1343.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К21</text>
+<line x1="576.0" y1="1294.6" x2="940.8" y2="1294.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1359.4" x2="576.0" y2="1382.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1382.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1382.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1386.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1429.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1382.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1382.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1438.6" x2="638.4" y2="1438.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1431.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К22</text>
+<line x1="576.0" y1="1382.6" x2="940.8" y2="1382.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1447.4" x2="576.0" y2="1470.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1470.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1470.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1474.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1517.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1470.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1470.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1526.6" x2="638.4" y2="1526.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1519.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К23</text>
+<line x1="576.0" y1="1470.6" x2="940.8" y2="1470.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1535.4" x2="576.0" y2="1558.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<rect x="576.0" y="1558.6" width="80.0" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="872.0" y="1558.6" width="68.8" height="88.0" fill="#cfe3b4" stroke="none" stroke-width="0.8"/>
+<rect x="576.0" y="1562.6" width="80.0" height="40.0" fill="#d2cfc7" stroke="#1d1d1b" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="576.0" y="1605.8" width="80.0" height="17.6" fill="#e7e5df" stroke="none" stroke-width="0.8"/>
+<rect x="820.8" y="1558.6" width="51.2" height="88.0" fill="#e7e5df" stroke="#55534e" stroke-width="0.8" stroke-dasharray="5 4"/>
+<rect x="656.0" y="1558.6" width="164.8" height="88.0" fill="#fff" stroke="#1d1d1b" stroke-width="2.4"/>
+<line x1="656.0" y1="1614.6" x2="638.4" y2="1614.6" stroke="#55534e" stroke-width="2.2"/>
+<text x="738.4" y="1607.4" font-size="9.5" font-weight="700" fill="#1d1d1b" text-anchor="middle">К24</text>
+<line x1="576.0" y1="1558.6" x2="940.8" y2="1558.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1623.4" x2="576.0" y2="1646.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="120.0" y1="1607.5" x2="480.0" y2="1607.5" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<line x1="576.0" y1="1646.6" x2="940.8" y2="1646.6" stroke="#3B6D11" stroke-width="2.2" stroke-dasharray="1 3.2" stroke-linecap="round"/>
+<text x="92.8" y="1035.5" font-size="9" font-weight="700" fill="#3B6D11" text-anchor="middle" transform="rotate(-90 92.8 1035.5)">западен ред · 13 къщи · входът, паркомястото и дворът са откъм улицата</text>
+<text x="972.8" y="1162.6" font-size="9" font-weight="700" fill="#3B6D11" text-anchor="middle" transform="rotate(-90 972.8 1162.6)">източен ред · 11 къщи · вход и паркомясто откъм улицата, двор отзад</text>
+<polygon points="120.0,216.0 940.8,577.6 940.8,1732.8 120.0,1732.8" fill="none" stroke="#b3261e" stroke-width="1.4" stroke-dasharray="10 3 2 3"/>
+<line x1="120.0" y1="1760.0" x2="940.8" y2="1760.0" stroke="#55534e" stroke-width="0.7"/>
+<line x1="116.0" y1="1764.0" x2="124.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="164.0" y1="1764.0" x2="172.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="328.8" y1="1764.0" x2="336.8" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="380.0" y1="1764.0" x2="388.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="476.0" y1="1764.0" x2="484.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="572.0" y1="1764.0" x2="580.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="652.0" y1="1764.0" x2="660.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="816.8" y1="1764.0" x2="824.8" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="868.0" y1="1764.0" x2="876.0" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="936.8" y1="1764.0" x2="944.8" y2="1756.0" stroke="#1d1d1b" stroke-width="1"/>
+<text x="144.0" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">3,00</text>
+<text x="250.4" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">10,30</text>
+<text x="358.4" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">3,20</text>
+<text x="432.0" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">6,00</text>
+<text x="528.0" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">6,00</text>
+<text x="616.0" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">5,00</text>
+<text x="738.4" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">10,30</text>
+<text x="846.4" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">3,20</text>
+<text x="906.4" y="1754.4" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">4,30</text>
+<line x1="120.0" y1="1780.8" x2="940.8" y2="1780.8" stroke="#55534e" stroke-width="0.7"/>
+<line x1="116.0" y1="1784.8" x2="124.0" y2="1776.8" stroke="#1d1d1b" stroke-width="1"/>
+<line x1="936.8" y1="1784.8" x2="944.8" y2="1776.8" stroke="#1d1d1b" stroke-width="1"/>
+<text x="530.4" y="1775.2" font-size="8" font-weight="400" fill="#55534e" text-anchor="middle">ширина на имота 51,30 м</text>
+<text x="16.0" y="1811.2" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="start">Тъмнозелено: частният двор на всяка къща, ограден с жив плет (зелените точки). Сиво с пунктир до къщата: покрита тераса под еркера. Сив правоъгълник с пунктир: паркомястото на къщата.</text>
+<text x="16.0" y="1833.6" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="start">К1–К13: дворът е пред къщата, откъм улицата, а зад нея има ивица от 3 м. К14–К24: дворът е зад къщата. Чертичките: входовете. Размерите долу са напречно на имота.</text></g></svg>
