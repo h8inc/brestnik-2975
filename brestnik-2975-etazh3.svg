@@ -105,9 +105,9 @@
 <rect x="151.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="151.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="257.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="261.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="227.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="317.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="209.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="209.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="327.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="209.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="381.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -217,9 +217,9 @@
 <rect x="605.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="605.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="515.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="511.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="545.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="455.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="563.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="563.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="445.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="563.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="865.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -329,9 +329,9 @@
 <rect x="635.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="635.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="741.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="745.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="711.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="801.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="693.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="693.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="811.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="693.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="865.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -441,9 +441,9 @@
 <rect x="1089.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1089.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="999.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="995.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1029.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="939.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1047.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1047.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="929.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1047.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1349.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -553,9 +553,9 @@
 <rect x="1119.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1119.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1225.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1229.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1195.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1285.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1177.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1177.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1295.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1177.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1349.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -665,9 +665,9 @@
 <rect x="1573.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1573.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1483.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1479.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1513.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1423.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1531.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1531.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1413.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1531.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1833.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -777,9 +777,9 @@
 <rect x="1603.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1603.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1709.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1713.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1679.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1769.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1661.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1661.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1779.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1661.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1833.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -889,9 +889,9 @@
 <rect x="2057.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="2057.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1967.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1963.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1997.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1907.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="2015.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="2015.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1897.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="2015.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="2317.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1001,9 +1001,9 @@
 <rect x="2087.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="2087.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="2193.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="2197.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="2163.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="2253.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="2145.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="2145.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="2263.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="2145.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="2317.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1113,9 +1113,9 @@
 <rect x="2541.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="2541.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="2451.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="2447.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="2481.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="2391.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="2499.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="2499.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="2381.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="2499.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="2559.0" y="160.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1225,9 +1225,9 @@
 <rect x="2783.0" y="532.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="2783.0" y="628.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="2693.0" y="224.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="2689.0" y="354.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="2723.0" y="366.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="2633.0" y="452.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="2741.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="2741.0" y="442.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="2623.0" y="624.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="2741.0" y="652.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <text x="144.0" y="72.0" font-size="14" font-weight="600" fill="#1d1d1b">Етаж 3 · Западен ред</text>
@@ -1432,9 +1432,9 @@
 <rect x="151.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="151.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="257.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="261.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="227.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="317.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="209.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="209.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="327.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="209.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="381.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1544,9 +1544,9 @@
 <rect x="605.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="605.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="515.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="511.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="545.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="455.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="563.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="563.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="445.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="563.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="865.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1656,9 +1656,9 @@
 <rect x="635.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="635.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="741.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="745.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="711.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="801.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="693.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="693.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="811.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="693.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="865.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1768,9 +1768,9 @@
 <rect x="1089.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1089.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="999.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="995.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1029.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="939.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1047.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1047.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="929.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1047.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1349.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1880,9 +1880,9 @@
 <rect x="1119.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1119.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1225.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1229.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1195.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1285.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1177.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1177.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1295.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1177.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1349.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -1992,9 +1992,9 @@
 <rect x="1573.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1573.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1483.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1479.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1513.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1423.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1531.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1531.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1413.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1531.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1833.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -2104,9 +2104,9 @@
 <rect x="1603.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1603.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1709.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1713.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1679.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1769.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="1661.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1661.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1779.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1661.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="1833.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -2216,9 +2216,9 @@
 <rect x="2057.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="2057.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1967.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="1963.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1997.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="1907.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="2015.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="2015.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1897.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="2015.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <rect x="2075.0" y="1044.0" width="10.0" height="540.0" fill="#1d1d1b"/>
@@ -2328,9 +2328,9 @@
 <rect x="2299.0" y="1416.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="2299.0" y="1512.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="2209.0" y="1108.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
-<text x="2205.0" y="1238.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="2239.0" y="1250.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
 <text x="2149.0" y="1336.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
-<text x="2257.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="2257.0" y="1326.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="2139.0" y="1508.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="2257.0" y="1536.0" font-size="9.6" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Родителска спалня</text>
 <text x="144.0" y="956.0" font-size="14" font-weight="600" fill="#1d1d1b">Етаж 3 · Източен ред</text>

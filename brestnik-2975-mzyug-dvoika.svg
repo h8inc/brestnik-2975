@@ -195,8 +195,8 @@
 <line x1="556.0" y1="634.0" x2="532.0" y2="734.0" stroke="#8a8780" stroke-width="0.6"/>
 <rect x="390.0" y="634.0" width="18.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="488.0" y="634.0" width="18.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
-<text x="168.0" y="569.2" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Антре</text>
-<text x="168.0" y="582.8" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 11,0 м²</text>
+<text x="180.0" y="580.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Антре</text>
+<text x="180.0" y="593.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 11,0 м²</text>
 <text x="236.0" y="648.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">WC</text>
 <text x="236.0" y="661.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 2,7 м²</text>
 <text x="290.0" y="636.0" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">склад</text>
@@ -320,8 +320,7 @@
 <text x="937.0" y="625.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 13,0 м²</text>
 <text x="891.0" y="730.8" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">WC</text>
 <text x="891.0" y="744.4" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 2,1 м²</text>
-<text x="967.0" y="730.8" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Склад</text>
-<text x="967.0" y="744.4" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 3,5 м²</text>
+<text x="967.0" y="730.8" font-size="9" font-weight="600" fill="#55534e" text-anchor="middle" dominant-baseline="central">склад</text>
 <text x="841.0" y="674.0" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">коридор</text>
 <text x="933.0" y="922.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна с кухня</text>
 <text x="933.0" y="935.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 39,0 м²</text>
@@ -435,8 +434,7 @@
 <text x="1091.0" y="465.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 13,0 м²</text>
 <text x="1137.0" y="570.8" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">WC</text>
 <text x="1137.0" y="584.4" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 2,1 м²</text>
-<text x="1061.0" y="570.8" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Склад</text>
-<text x="1061.0" y="584.4" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 3,5 м²</text>
+<text x="1061.0" y="570.8" font-size="9" font-weight="600" fill="#55534e" text-anchor="middle" dominant-baseline="central">склад</text>
 <text x="1187.0" y="514.0" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">коридор</text>
 <text x="1095.0" y="762.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Дневна с кухня</text>
 <text x="1095.0" y="775.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 39,0 м²</text>
@@ -510,8 +508,8 @@
 <circle cx="1489.0" cy="595.6" r="2.2" fill="#1d1d1b"/>
 <line x1="1489.0" y1="595.6" x2="1489.0" y2="655.6" stroke="#1d1d1b" stroke-width="0.9"/>
 <path d="M1485.0 648.6 L1489.0 655.6 L1493.0 648.6" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
-<rect x="1459.82" y="608.425" width="58.36000000000001" height="11.05" fill="#fff"/>
-<text x="1489.0" y="614.8" font-size="8.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">към покрива</text>
+<rect x="1471.72" y="608.425" width="34.56" height="11.05" fill="#fff"/>
+<text x="1489.0" y="614.8" font-size="8.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">покрив</text>
 <rect x="1619.0" y="578.0" width="80.0" height="64.0" rx="2" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1677.8" y="582.0" width="18.0" height="26.0" rx="3" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1677.8" y="612.0" width="18.0" height="26.0" rx="3" fill="none" stroke="#8a8780" stroke-width="0.8"/>
@@ -555,12 +553,12 @@
 <rect x="1683.0" y="998.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1593.0" y="594.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
 <text x="1593.0" y="607.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 13,0 м²</text>
-<text x="1589.0" y="724.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
-<text x="1589.0" y="737.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 7,9 м²</text>
+<text x="1623.0" y="736.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1623.0" y="749.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 7,9 м²</text>
 <text x="1533.0" y="674.0" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">коридор</text>
 <text x="1533.0" y="822.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
 <text x="1533.0" y="835.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 6,5 м²</text>
-<text x="1641.0" y="812.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1641.0" y="812.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1641.0" y="825.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 4,4 м²</text>
 <text x="1523.0" y="994.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1523.0" y="1007.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 11,5 м²</text>
@@ -639,8 +637,8 @@
 <circle cx="1923.0" cy="435.6" r="2.2" fill="#1d1d1b"/>
 <line x1="1923.0" y1="435.6" x2="1923.0" y2="495.6" stroke="#1d1d1b" stroke-width="0.9"/>
 <path d="M1919.0 488.6 L1923.0 495.6 L1927.0 488.6" fill="none" stroke="#1d1d1b" stroke-width="0.9"/>
-<rect x="1893.82" y="448.425" width="58.36000000000001" height="11.05" fill="#fff"/>
-<text x="1923.0" y="454.8" font-size="8.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">към покрива</text>
+<rect x="1905.72" y="448.425" width="34.56" height="11.05" fill="#fff"/>
+<text x="1923.0" y="454.8" font-size="8.5" font-weight="400" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">покрив</text>
 <rect x="1713.0" y="418.0" width="80.0" height="64.0" rx="2" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1716.2" y="422.0" width="18.0" height="26.0" rx="3" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <rect x="1716.2" y="452.0" width="18.0" height="26.0" rx="3" fill="none" stroke="#8a8780" stroke-width="0.8"/>
@@ -684,12 +682,12 @@
 <rect x="1713.0" y="838.0" width="16.0" height="16.0" rx="0" fill="none" stroke="#8a8780" stroke-width="0.8"/>
 <text x="1819.0" y="434.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 1</text>
 <text x="1819.0" y="447.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 13,0 м²</text>
-<text x="1823.0" y="564.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
-<text x="1823.0" y="577.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 7,9 м²</text>
+<text x="1789.0" y="576.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня</text>
+<text x="1789.0" y="589.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 7,9 м²</text>
 <text x="1879.0" y="514.0" font-size="8.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">коридор</text>
 <text x="1879.0" y="662.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Хол</text>
 <text x="1879.0" y="675.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 6,5 м²</text>
-<text x="1771.0" y="652.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня (ensuite)</text>
+<text x="1771.0" y="652.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Баня 2</text>
 <text x="1771.0" y="665.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 4,4 м²</text>
 <text x="1889.0" y="834.0" font-size="10.5" font-weight="600" fill="#1d1d1b" text-anchor="middle" dominant-baseline="central">Спалня 2</text>
 <text x="1889.0" y="847.6" font-size="9.5" font-weight="400" fill="#55534e" text-anchor="middle" dominant-baseline="central">P: 11,5 м²</text>
